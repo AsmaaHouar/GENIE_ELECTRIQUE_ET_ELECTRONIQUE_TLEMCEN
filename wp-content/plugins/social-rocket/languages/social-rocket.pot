@@ -1,0 +1,2150 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Social Rocket\n"
+"POT-Creation-Date: 2020-05-08 22:51-0700\n"
+"PO-Revision-Date: 2019-03-04 06:14-0800\n"
+"Last-Translator: \n"
+"Language-Team: Social Rocket <info@wpsocialrocket.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: social-rocket.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: js/blocks.js:152
+msgid "[Social Rocket] Inline Buttons"
+msgstr ""
+
+#: js/blocks.js:182 admin/includes/class-social-rocket-admin.php:2373
+#: admin/includes/class-social-rocket-admin.php:3016
+#: admin/includes/class-social-rocket-admin.php:4469
+msgid "Heading text (optional)"
+msgstr ""
+
+#: js/blocks.js:190
+msgid "Networks"
+msgstr ""
+
+#: js/blocks.js:193
+msgid "Default (current active networks)"
+msgstr ""
+
+#: js/blocks.js:194
+msgid "Selected networks"
+msgstr ""
+
+#: js/blocks.js:224
+msgid "Click to select and drag/drop to reorder:"
+msgstr ""
+
+#: js/blocks.js:250 admin/includes/class-social-rocket-admin.php:4471
+msgid "Show Counts"
+msgstr ""
+
+#: js/blocks.js:254 js/blocks.js:267
+#: admin/includes/class-social-rocket-admin.php:771
+#: admin/includes/class-social-rocket-admin.php:1218
+#: admin/includes/class-social-rocket-admin.php:1246
+#: admin/includes/class-social-rocket-admin.php:1384
+#: admin/includes/class-social-rocket-admin.php:1837
+#: admin/includes/class-social-rocket-admin.php:1864
+#: admin/includes/class-social-rocket-admin.php:2143
+#: admin/includes/class-social-rocket-admin.php:2387
+#: admin/includes/class-social-rocket-admin.php:2603
+#: admin/includes/class-social-rocket-admin.php:2630
+#: admin/includes/class-social-rocket-admin.php:2768
+#: admin/includes/class-social-rocket-admin.php:3029
+#: admin/includes/class-social-rocket-admin.php:3232
+#: admin/includes/class-social-rocket-admin.php:3258
+#: includes/social-rocket-activate.php:118
+msgid "Default"
+msgstr ""
+
+#: js/blocks.js:255
+msgid "Yes"
+msgstr ""
+
+#: js/blocks.js:256
+msgid "No"
+msgstr ""
+
+#: js/blocks.js:263 admin/includes/class-social-rocket-admin.php:4472
+msgid "Show Total"
+msgstr ""
+
+#: js/blocks.js:268
+msgid "Before"
+msgstr ""
+
+#: js/blocks.js:269
+msgid "After"
+msgstr ""
+
+#: js/blocks.js:270 admin/includes/class-social-rocket-admin.php:554
+#: admin/includes/class-social-rocket-admin.php:911
+#: admin/includes/class-social-rocket-admin.php:1051
+#: admin/includes/class-social-rocket-admin.php:1223
+#: admin/includes/class-social-rocket-admin.php:1251
+#: admin/includes/class-social-rocket-admin.php:1547
+#: admin/includes/class-social-rocket-admin.php:1680
+#: admin/includes/class-social-rocket-admin.php:1842
+#: admin/includes/class-social-rocket-admin.php:1869
+#: admin/includes/class-social-rocket-admin.php:2422
+#: admin/includes/class-social-rocket-admin.php:3063
+#: admin/includes/class-social-rocket-admin.php:4952
+#: admin/includes/class-social-rocket-admin.php:5144
+msgid "None"
+msgstr ""
+
+#: js/blocks.js:287
+msgid "Custom Share ID (optional; leave blank to share this post/page)"
+msgstr ""
+
+#: js/blocks.js:292
+msgid "Custom Share Type (optional; leave blank to share this post/page)"
+msgstr ""
+
+#: js/blocks.js:297
+msgid "Custom Share URL (optional; leave blank to share this post/page)"
+msgstr ""
+
+#: js/blocks.js:413
+msgid "[Social Rocket] Click to Tweet"
+msgstr ""
+
+#: js/blocks.js:440 admin/includes/class-social-rocket-admin.php:4478
+msgid "Quote to be displayed on your page"
+msgstr ""
+
+#: js/blocks.js:445 admin/includes/class-social-rocket-admin.php:4477
+msgid "Tweet to be shared on Twitter"
+msgstr ""
+
+#: js/blocks.js:450 admin/includes/class-social-rocket-admin.php:4479
+msgid "Include the URL"
+msgstr ""
+
+#: js/blocks.js:455 admin/includes/class-social-rocket-admin.php:4481
+msgid "Include \"via\""
+msgstr ""
+
+#: js/blocks.js:462 admin/includes/class-social-rocket-admin.php:4483
+msgid "Display Style"
+msgstr ""
+
+#: js/blocks.js:469 admin/includes/class-social-rocket-admin.php:4485
+msgid "Custom URL (optional)"
+msgstr ""
+
+#: js/blocks.js:474 admin/includes/class-social-rocket-admin.php:4486
+msgid "Custom Via (optional)"
+msgstr ""
+
+#: js/blocks.js:479 admin/includes/class-social-rocket-admin.php:4484
+msgid "Custom CSS class (optional)"
+msgstr ""
+
+#: js/blocks.js:509
+msgid "Pin Description"
+msgstr ""
+
+#: js/blocks.js:614
+msgid "Attempt Block Recovery"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin-notices.php:115
+#: admin/includes/class-social-rocket-admin-notices.php:152
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin-notices.php:119
+#: admin/includes/class-social-rocket-admin-notices.php:156
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin-notices.php:227
+msgid "Dismiss"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+#: admin/includes/class-social-rocket-admin.php:232
+#: admin/includes/class-social-rocket-admin.php:5483
+msgid "Social Rocket"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:238
+msgid "Close"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:308
+#, php-format
+msgid ""
+"Need help? <a href=\"%s\" target=\"_blank\">Read the Documentation</a> or <a "
+"href=\"%s\" target=\"_blank\">Visit our Support Site</a>."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:309
+msgid ""
+"Opening a support ticket? Get your System Information by clicking the button "
+"below:"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:310
+msgid "Get System Info"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:312
+msgid "Press Ctrl + C (PC) or Cmd + C (Mac) to copy this information."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:357
+msgid "To use the default setting for any field, just leave it empty."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:363
+msgid "Color Override"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:365
+msgid ""
+"This will allow you to override the colors set by your color scheme (under "
+"Display Settings)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:368
+msgid ""
+"I want to make the colors for this network different from my chosen color "
+"scheme"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:378
+#, php-format
+msgid ""
+"This determines which Font Awesome icon is displayed as this network's icon. "
+"To use a different icon, find the icon you want on the <a href=\"%s\" target="
+"\"_blank\">Font Awesome</a> website and copy the class(es) here."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:397
+msgid "Done"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:398
+msgid "Reset to Default"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:424
+#: admin/includes/class-social-rocket-admin.php:1978
+#: includes/social-rocket-activate.php:115
+msgid "Click to Tweet"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:437
+msgid ""
+"Use the builder below to create and save Click to Tweet styles. When using "
+"the Click to Tweet button inside the page/post editor screen, you'll be able "
+"to select which style you'd like to display."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:438
+#, php-format
+msgid ""
+"Our <a href=\"%s\" target=\"_blank\">documentation</a> explains the builder "
+"in more detail. Need help finding something? <a href=\"%s\" target=\"_blank"
+"\">Let us know</a>!"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:441
+msgid "Style Builder"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:444
+msgid "Current Style:"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:447
+msgid "Save"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:448
+#: admin/includes/class-social-rocket-admin.php:640
+msgid "Save As New Style"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:455
+msgid "Social sharing... to the moon!"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:456
+msgid "I'm using Social Rocket for WordPress!"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:469
+msgid "Text Color"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:477
+msgid "Text Size (px)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:485
+#: includes/networks/class-social-rocket-buffer.php:80
+#: includes/networks/class-social-rocket-email.php:95
+#: includes/networks/class-social-rocket-facebook.php:83
+#: includes/networks/class-social-rocket-linkedin.php:76
+#: includes/networks/class-social-rocket-mix.php:76
+#: includes/networks/class-social-rocket-pinterest.php:80
+#: includes/networks/class-social-rocket-print.php:83
+#: includes/networks/class-social-rocket-reddit.php:80
+#: includes/networks/class-social-rocket-twitter.php:82
+msgid "Background Color"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:493
+msgid "Accent Color"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:501
+msgid "Include URL in tweet"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:510
+msgid "Include \"via\" in tweet"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:523
+msgid "Call to Action Text"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:531
+msgid "Call to Action Position"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:535
+#: admin/includes/class-social-rocket-admin.php:895
+#: admin/includes/class-social-rocket-admin.php:956
+#: admin/includes/class-social-rocket-admin.php:1219
+#: admin/includes/class-social-rocket-admin.php:1247
+#: admin/includes/class-social-rocket-admin.php:1531
+#: admin/includes/class-social-rocket-admin.php:1590
+#: admin/includes/class-social-rocket-admin.php:1838
+#: admin/includes/class-social-rocket-admin.php:1865
+#: admin/includes/class-social-rocket-admin.php:2343
+#: admin/includes/class-social-rocket-admin.php:2388
+#: admin/includes/class-social-rocket-admin.php:2989
+#: admin/includes/class-social-rocket-admin.php:3030
+#: admin/includes/class-social-rocket-admin.php:4948
+#: admin/includes/class-social-rocket-admin.php:5140
+msgid "Left"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:536
+#: admin/includes/class-social-rocket-admin.php:899
+#: admin/includes/class-social-rocket-admin.php:958
+#: admin/includes/class-social-rocket-admin.php:1220
+#: admin/includes/class-social-rocket-admin.php:1248
+#: admin/includes/class-social-rocket-admin.php:1535
+#: admin/includes/class-social-rocket-admin.php:1592
+#: admin/includes/class-social-rocket-admin.php:1839
+#: admin/includes/class-social-rocket-admin.php:1866
+#: admin/includes/class-social-rocket-admin.php:2345
+#: admin/includes/class-social-rocket-admin.php:2389
+#: admin/includes/class-social-rocket-admin.php:2991
+#: admin/includes/class-social-rocket-admin.php:3031
+#: admin/includes/class-social-rocket-admin.php:4949
+#: admin/includes/class-social-rocket-admin.php:5141
+msgid "Right"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:542
+msgid "Call to Action Color"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:550
+#: admin/includes/class-social-rocket-admin.php:1045
+#: admin/includes/class-social-rocket-admin.php:1675
+#: admin/includes/class-social-rocket-admin.php:2416
+#: admin/includes/class-social-rocket-admin.php:3058
+msgid "Border"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:555
+#: admin/includes/class-social-rocket-admin.php:1052
+#: admin/includes/class-social-rocket-admin.php:1681
+#: admin/includes/class-social-rocket-admin.php:2423
+#: admin/includes/class-social-rocket-admin.php:3064
+msgid "Solid"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:556
+#: admin/includes/class-social-rocket-admin.php:1053
+#: admin/includes/class-social-rocket-admin.php:1682
+#: admin/includes/class-social-rocket-admin.php:2424
+#: admin/includes/class-social-rocket-admin.php:3065
+msgid "Double"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:557
+#: admin/includes/class-social-rocket-admin.php:1054
+#: admin/includes/class-social-rocket-admin.php:1683
+#: admin/includes/class-social-rocket-admin.php:2425
+#: admin/includes/class-social-rocket-admin.php:3066
+msgid "Dashed"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:558
+#: admin/includes/class-social-rocket-admin.php:1055
+#: admin/includes/class-social-rocket-admin.php:1684
+#: admin/includes/class-social-rocket-admin.php:2426
+#: admin/includes/class-social-rocket-admin.php:3067
+msgid "Dotted"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:559
+#: admin/includes/class-social-rocket-admin.php:1056
+#: admin/includes/class-social-rocket-admin.php:1685
+#: admin/includes/class-social-rocket-admin.php:2427
+#: admin/includes/class-social-rocket-admin.php:3068
+msgid "Inset"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:560
+#: admin/includes/class-social-rocket-admin.php:1057
+#: admin/includes/class-social-rocket-admin.php:1686
+#: admin/includes/class-social-rocket-admin.php:2428
+#: admin/includes/class-social-rocket-admin.php:3069
+msgid "Outset"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:561
+#: admin/includes/class-social-rocket-admin.php:1058
+#: admin/includes/class-social-rocket-admin.php:1687
+#: admin/includes/class-social-rocket-admin.php:2429
+#: admin/includes/class-social-rocket-admin.php:3070
+msgid "Groove"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:562
+#: admin/includes/class-social-rocket-admin.php:1059
+#: admin/includes/class-social-rocket-admin.php:1688
+#: admin/includes/class-social-rocket-admin.php:2430
+#: admin/includes/class-social-rocket-admin.php:3071
+msgid "Ridge"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:568
+msgid "Border Size (px)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:576
+msgid "Border Radius (px)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:584
+#: includes/networks/class-social-rocket-buffer.php:90
+#: includes/networks/class-social-rocket-email.php:105
+#: includes/networks/class-social-rocket-facebook.php:93
+#: includes/networks/class-social-rocket-linkedin.php:86
+#: includes/networks/class-social-rocket-mix.php:86
+#: includes/networks/class-social-rocket-pinterest.php:90
+#: includes/networks/class-social-rocket-print.php:93
+#: includes/networks/class-social-rocket-reddit.php:90
+#: includes/networks/class-social-rocket-twitter.php:92
+msgid "Border Color"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:593
+msgid "Saved Styles"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:598
+#: admin/includes/class-social-rocket-admin.php:638
+msgid "Name"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:601
+msgid "Style ID"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:604
+#: admin/includes/class-social-rocket-admin.php:709
+#: admin/includes/class-social-rocket-admin.php:1326
+#: admin/includes/class-social-rocket-admin.php:2081
+#: admin/includes/class-social-rocket-admin.php:2710
+msgid "Actions"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:621
+#: admin/includes/class-social-rocket-admin.php:4466
+msgid "Load"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:623
+#: admin/includes/class-social-rocket-admin.php:4465
+msgid "Delete"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:637
+msgid "Style Name:"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:669
+#: admin/includes/class-social-rocket-admin.php:1973
+msgid "Floating Buttons"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:674
+#: admin/includes/class-social-rocket-admin.php:2045
+msgid "Desktop"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:675
+#: admin/includes/class-social-rocket-admin.php:2046
+msgid "Mobile"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:687
+#: admin/includes/class-social-rocket-admin.php:1315
+#: admin/includes/class-social-rocket-admin.php:2059
+#: admin/includes/class-social-rocket-admin.php:2699
+msgid "Choose Social Networks"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:688
+#: admin/includes/class-social-rocket-admin.php:1316
+#: admin/includes/class-social-rocket-admin.php:2060
+#: admin/includes/class-social-rocket-admin.php:2700
+msgid "Activate Networks"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:699
+#: admin/includes/class-social-rocket-admin.php:2071
+msgid "Apply Selection"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:702
+#: admin/includes/class-social-rocket-admin.php:1319
+#: admin/includes/class-social-rocket-admin.php:2074
+#: admin/includes/class-social-rocket-admin.php:2703
+msgid "Select social networks to display"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:707
+#: admin/includes/class-social-rocket-admin.php:1324
+#: admin/includes/class-social-rocket-admin.php:2079
+#: admin/includes/class-social-rocket-admin.php:2708
+msgid "Network"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:745
+#: admin/includes/class-social-rocket-admin.php:2117
+msgid ""
+"The \"More\" button is a special button; all networks after this will be "
+"hidden behind it until clicked."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:751
+#: admin/includes/class-social-rocket-admin.php:1367
+#: admin/includes/class-social-rocket-admin.php:2123
+#: admin/includes/class-social-rocket-admin.php:2751
+msgid "Advanced Network Settings"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:751
+#: admin/includes/class-social-rocket-admin.php:1367
+#: admin/includes/class-social-rocket-admin.php:2123
+#: admin/includes/class-social-rocket-admin.php:2751
+#: admin/includes/class-social-rocket-admin.php:3414
+msgid "Advanced"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:753
+#: admin/includes/class-social-rocket-admin.php:1369
+#: admin/includes/class-social-rocket-admin.php:2125
+#: admin/includes/class-social-rocket-admin.php:2753
+msgid "Remove"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:761
+#: admin/includes/class-social-rocket-admin.php:1375
+#: admin/includes/class-social-rocket-admin.php:2133
+#: admin/includes/class-social-rocket-admin.php:2759
+msgid "Color Scheme Settings"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:765
+#: admin/includes/class-social-rocket-admin.php:1379
+#: admin/includes/class-social-rocket-admin.php:2137
+#: admin/includes/class-social-rocket-admin.php:2763
+msgid "Button color scheme"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:767
+#: admin/includes/class-social-rocket-admin.php:2139
+msgid ""
+"Configure the color scheme for your buttons here. If you want to override a "
+"specific button's colors, go to the \"Advanced\" settings for that network "
+"(see above)."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:772
+#: admin/includes/class-social-rocket-admin.php:1385
+#: admin/includes/class-social-rocket-admin.php:2144
+#: admin/includes/class-social-rocket-admin.php:2769
+msgid "Inverted"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:773
+#: admin/includes/class-social-rocket-admin.php:1386
+#: admin/includes/class-social-rocket-admin.php:2145
+#: admin/includes/class-social-rocket-admin.php:2770
+msgid "Custom"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:775
+#: admin/includes/class-social-rocket-admin.php:1388
+#: admin/includes/class-social-rocket-admin.php:1886
+#: admin/includes/class-social-rocket-admin.php:2147
+#: admin/includes/class-social-rocket-admin.php:2772
+#: admin/includes/class-social-rocket-admin.php:3280
+#: admin/includes/class-social-rocket-admin.php:4457
+msgid "Show"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:779
+#: admin/includes/class-social-rocket-admin.php:1392
+#: admin/includes/class-social-rocket-admin.php:2151
+#: admin/includes/class-social-rocket-admin.php:2776
+msgid "Custom Icon Color"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:785
+#: admin/includes/class-social-rocket-admin.php:819
+#: admin/includes/class-social-rocket-admin.php:853
+#: admin/includes/class-social-rocket-admin.php:1402
+#: admin/includes/class-social-rocket-admin.php:1444
+#: admin/includes/class-social-rocket-admin.php:1486
+#: admin/includes/class-social-rocket-admin.php:2157
+#: admin/includes/class-social-rocket-admin.php:2191
+#: admin/includes/class-social-rocket-admin.php:2225
+#: admin/includes/class-social-rocket-admin.php:2786
+#: admin/includes/class-social-rocket-admin.php:2828
+#: admin/includes/class-social-rocket-admin.php:2870
+msgid "Use Network Default Icon Color"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:788
+#: admin/includes/class-social-rocket-admin.php:816
+#: admin/includes/class-social-rocket-admin.php:856
+#: admin/includes/class-social-rocket-admin.php:1405
+#: admin/includes/class-social-rocket-admin.php:1441
+#: admin/includes/class-social-rocket-admin.php:1489
+#: admin/includes/class-social-rocket-admin.php:2160
+#: admin/includes/class-social-rocket-admin.php:2188
+#: admin/includes/class-social-rocket-admin.php:2228
+#: admin/includes/class-social-rocket-admin.php:2789
+#: admin/includes/class-social-rocket-admin.php:2825
+#: admin/includes/class-social-rocket-admin.php:2873
+msgid "Use Network Default Background Color"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:791
+#: admin/includes/class-social-rocket-admin.php:822
+#: admin/includes/class-social-rocket-admin.php:850
+#: admin/includes/class-social-rocket-admin.php:1408
+#: admin/includes/class-social-rocket-admin.php:1447
+#: admin/includes/class-social-rocket-admin.php:1483
+#: admin/includes/class-social-rocket-admin.php:2163
+#: admin/includes/class-social-rocket-admin.php:2194
+#: admin/includes/class-social-rocket-admin.php:2222
+#: admin/includes/class-social-rocket-admin.php:2792
+#: admin/includes/class-social-rocket-admin.php:2831
+#: admin/includes/class-social-rocket-admin.php:2867
+msgid "Use Network Default Border Color"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:796
+#: admin/includes/class-social-rocket-admin.php:1413
+#: admin/includes/class-social-rocket-admin.php:2168
+#: admin/includes/class-social-rocket-admin.php:2797
+msgid "Custom Icon Hover Color"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:802
+#: admin/includes/class-social-rocket-admin.php:1423
+#: admin/includes/class-social-rocket-admin.php:2174
+#: admin/includes/class-social-rocket-admin.php:2807
+msgid "Use Network Default Icon Hover Color"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:805
+#: admin/includes/class-social-rocket-admin.php:839
+#: admin/includes/class-social-rocket-admin.php:872
+#: admin/includes/class-social-rocket-admin.php:1426
+#: admin/includes/class-social-rocket-admin.php:1468
+#: admin/includes/class-social-rocket-admin.php:1509
+#: admin/includes/class-social-rocket-admin.php:2177
+#: admin/includes/class-social-rocket-admin.php:2211
+#: admin/includes/class-social-rocket-admin.php:2244
+#: admin/includes/class-social-rocket-admin.php:2810
+#: admin/includes/class-social-rocket-admin.php:2852
+#: admin/includes/class-social-rocket-admin.php:2893
+msgid "None (No Hover Effect)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:810
+#: admin/includes/class-social-rocket-admin.php:1431
+#: admin/includes/class-social-rocket-admin.php:2182
+#: admin/includes/class-social-rocket-admin.php:2815
+msgid "Custom Background Color"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:825
+#: admin/includes/class-social-rocket-admin.php:859
+#: admin/includes/class-social-rocket-admin.php:1450
+#: admin/includes/class-social-rocket-admin.php:1492
+#: admin/includes/class-social-rocket-admin.php:2197
+#: admin/includes/class-social-rocket-admin.php:2231
+#: admin/includes/class-social-rocket-admin.php:2834
+#: admin/includes/class-social-rocket-admin.php:2876
+msgid "None (Transparent)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:830
+#: admin/includes/class-social-rocket-admin.php:1455
+#: admin/includes/class-social-rocket-admin.php:2202
+#: admin/includes/class-social-rocket-admin.php:2839
+msgid "Custom Background Hover Color"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:836
+#: admin/includes/class-social-rocket-admin.php:1465
+#: admin/includes/class-social-rocket-admin.php:2208
+#: admin/includes/class-social-rocket-admin.php:2849
+msgid "Use Network Default Background Hover Color"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:844
+#: admin/includes/class-social-rocket-admin.php:1473
+#: admin/includes/class-social-rocket-admin.php:2216
+#: admin/includes/class-social-rocket-admin.php:2857
+msgid "Custom Border Color"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:863
+#: admin/includes/class-social-rocket-admin.php:1496
+#: admin/includes/class-social-rocket-admin.php:2235
+#: admin/includes/class-social-rocket-admin.php:2880
+msgid "Custom Border Hover Color"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:869
+#: admin/includes/class-social-rocket-admin.php:1506
+#: admin/includes/class-social-rocket-admin.php:2241
+#: admin/includes/class-social-rocket-admin.php:2890
+msgid "Use Network Default Border Hover Color"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:882
+#: admin/includes/class-social-rocket-admin.php:1519
+#: admin/includes/class-social-rocket-admin.php:2254
+#: admin/includes/class-social-rocket-admin.php:2903
+msgid "Display Settings"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:888
+#: admin/includes/class-social-rocket-admin.php:1525
+#: admin/includes/class-social-rocket-admin.php:2260
+#: admin/includes/class-social-rocket-admin.php:2909
+msgid "Default buttons placement"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:890
+msgid ""
+"Your buttons will be automatically inserted at the location specified here."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:903
+#: admin/includes/class-social-rocket-admin.php:928
+#: admin/includes/class-social-rocket-admin.php:1221
+#: admin/includes/class-social-rocket-admin.php:1249
+#: admin/includes/class-social-rocket-admin.php:1539
+#: admin/includes/class-social-rocket-admin.php:1563
+#: admin/includes/class-social-rocket-admin.php:1840
+#: admin/includes/class-social-rocket-admin.php:1867
+#: admin/includes/class-social-rocket-admin.php:4950
+#: admin/includes/class-social-rocket-admin.php:5142
+msgid "Top"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:907
+#: admin/includes/class-social-rocket-admin.php:936
+#: admin/includes/class-social-rocket-admin.php:1222
+#: admin/includes/class-social-rocket-admin.php:1250
+#: admin/includes/class-social-rocket-admin.php:1543
+#: admin/includes/class-social-rocket-admin.php:1571
+#: admin/includes/class-social-rocket-admin.php:1841
+#: admin/includes/class-social-rocket-admin.php:1868
+#: admin/includes/class-social-rocket-admin.php:4951
+#: admin/includes/class-social-rocket-admin.php:5143
+msgid "Bottom"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:921
+#: admin/includes/class-social-rocket-admin.php:1557
+msgid "Vertical position"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:923
+msgid ""
+"If your floating buttons are positioned on the left or the right, this "
+"setting allows you to vertically align them to the top, center, or bottom of "
+"the browser window."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:932
+#: admin/includes/class-social-rocket-admin.php:957
+#: admin/includes/class-social-rocket-admin.php:1567
+#: admin/includes/class-social-rocket-admin.php:1591
+#: admin/includes/class-social-rocket-admin.php:2344
+#: admin/includes/class-social-rocket-admin.php:2390
+#: admin/includes/class-social-rocket-admin.php:2990
+#: admin/includes/class-social-rocket-admin.php:3032
+msgid "Center"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:942
+#: admin/includes/class-social-rocket-admin.php:1577
+msgid "Vertical offset"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:944
+msgid ""
+"Change the vertical position of left/right side buttons by a certain offset. "
+"You can enter a value in px or %, like \"100px\" or \"10%\"."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:952
+#: admin/includes/class-social-rocket-admin.php:1586
+msgid "Horizontal alignment"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:959
+#: admin/includes/class-social-rocket-admin.php:1593
+#: admin/includes/class-social-rocket-admin.php:2346
+#: admin/includes/class-social-rocket-admin.php:2992
+msgid "Stretch"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:965
+#: admin/includes/class-social-rocket-admin.php:1599
+msgid "Button Bar background color"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:967
+msgid ""
+"If your floating buttons are positioned at the top or the bottom, this "
+"setting allows you to set a background color for the button bar."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:975
+#: admin/includes/class-social-rocket-admin.php:1612
+msgid "Button Bar padding"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:977
+msgid ""
+"If your floating buttons are positioned at the top or the bottom, this "
+"setting allows you to add space between the buttons and the button bar. If "
+"not 0, a unit must be provided (px, em, %, etc)."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:991
+#: admin/includes/class-social-rocket-admin.php:1627
+#: admin/includes/class-social-rocket-admin.php:2324
+#: admin/includes/class-social-rocket-admin.php:2971
+msgid "Button style"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:993
+#: admin/includes/class-social-rocket-admin.php:2326
+msgid ""
+"Choose which style of buttons you want to be displayed (oval, rectangle, "
+"round, square)."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:997
+#: admin/includes/class-social-rocket-admin.php:1632
+#: admin/includes/class-social-rocket-admin.php:2330
+#: admin/includes/class-social-rocket-admin.php:2976
+msgid "Oval"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:998
+#: admin/includes/class-social-rocket-admin.php:1633
+#: admin/includes/class-social-rocket-admin.php:2331
+#: admin/includes/class-social-rocket-admin.php:2977
+msgid "Rectangle"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:999
+#: admin/includes/class-social-rocket-admin.php:1634
+#: admin/includes/class-social-rocket-admin.php:2332
+#: admin/includes/class-social-rocket-admin.php:2978
+msgid "Round"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1000
+#: admin/includes/class-social-rocket-admin.php:1635
+#: admin/includes/class-social-rocket-admin.php:2333
+#: admin/includes/class-social-rocket-admin.php:2979
+msgid "Square"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1006
+#: admin/includes/class-social-rocket-admin.php:1641
+#: admin/includes/class-social-rocket-admin.php:2352
+#: admin/includes/class-social-rocket-admin.php:2998
+msgid "Button size (%)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1008
+#: admin/includes/class-social-rocket-admin.php:2354
+msgid ""
+"Increase or decrease the size of the buttons by percentage (default: 100)."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1016
+#: admin/includes/class-social-rocket-admin.php:1650
+#: admin/includes/class-social-rocket-admin.php:2362
+#: admin/includes/class-social-rocket-admin.php:3007
+msgid "Show Button Text"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1018
+#: admin/includes/class-social-rocket-admin.php:2364
+msgid ""
+"Display the Button Text for each button. If you want to override a specific "
+"button's Button Text, go to the \"Advanced\" settings for that network (see "
+"above)."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1028
+#: admin/includes/class-social-rocket-admin.php:1660
+#: admin/includes/class-social-rocket-admin.php:2477
+#: admin/includes/class-social-rocket-admin.php:3114
+msgid "(PRO) Enable \"More\" button"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1030
+#: admin/includes/class-social-rocket-admin.php:2479
+msgid "Allows extra networks to be combined behind a \"more\" button."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1035
+#: admin/includes/class-social-rocket-admin.php:1665
+#: admin/includes/class-social-rocket-admin.php:2484
+#: admin/includes/class-social-rocket-admin.php:3119
+#, php-format
+msgid ""
+"%s adds the \"More\" button feature, which allows you to combine extra "
+"networks into one button."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1047
+#: admin/includes/class-social-rocket-admin.php:2418
+msgid "Set the style of the border around your buttons."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1065
+#: admin/includes/class-social-rocket-admin.php:1694
+#: admin/includes/class-social-rocket-admin.php:2436
+#: admin/includes/class-social-rocket-admin.php:3077
+msgid "Border size (px)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1067
+#: admin/includes/class-social-rocket-admin.php:2438
+msgid "Thickness of the border, in pixels."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1075
+#: admin/includes/class-social-rocket-admin.php:1703
+#: admin/includes/class-social-rocket-admin.php:2446
+#: admin/includes/class-social-rocket-admin.php:3086
+msgid "Border radius (px)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1077
+#: admin/includes/class-social-rocket-admin.php:2448
+msgid "Allows you to round the corners of the buttons."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1085
+#: admin/includes/class-social-rocket-admin.php:1712
+#: admin/includes/class-social-rocket-admin.php:2456
+#: admin/includes/class-social-rocket-admin.php:3095
+msgid "Horizontal margin (px)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1087
+#: admin/includes/class-social-rocket-admin.php:2458
+msgid "Determines the horizontal space between buttons, in pixels."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1095
+#: admin/includes/class-social-rocket-admin.php:1721
+#: admin/includes/class-social-rocket-admin.php:2466
+#: admin/includes/class-social-rocket-admin.php:3104
+msgid "Vertical margin (px)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1097
+#: admin/includes/class-social-rocket-admin.php:2468
+msgid "Determines the vertical space between buttons, in pixels."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1107
+#: admin/includes/class-social-rocket-admin.php:1732
+#: admin/includes/class-social-rocket-admin.php:2492
+#: admin/includes/class-social-rocket-admin.php:3127
+msgid "Share Count Settings"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1113
+#: admin/includes/class-social-rocket-admin.php:1738
+#: admin/includes/class-social-rocket-admin.php:2498
+#: admin/includes/class-social-rocket-admin.php:3133
+msgid "Show share count"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1115
+#: admin/includes/class-social-rocket-admin.php:2500
+msgid "Display the share count for each button (if applicable)."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1124
+#: admin/includes/class-social-rocket-admin.php:1747
+#: admin/includes/class-social-rocket-admin.php:2509
+#: admin/includes/class-social-rocket-admin.php:3142
+msgid "Minimum shares"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1126
+#: admin/includes/class-social-rocket-admin.php:2511
+msgid ""
+"Display the network's share count only if greater than or equal to this "
+"number."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1134
+#: admin/includes/class-social-rocket-admin.php:1756
+#: admin/includes/class-social-rocket-admin.php:2519
+#: admin/includes/class-social-rocket-admin.php:3151
+msgid "Round large share counts"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1136
+#: admin/includes/class-social-rocket-admin.php:2521
+msgid ""
+"If any share count is greater than 1000, it will be rounded to a shorter "
+"format.  For example, 1234 will show as 1.2K, etc."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1149
+#: admin/includes/class-social-rocket-admin.php:1769
+#: admin/includes/class-social-rocket-admin.php:2534
+#: admin/includes/class-social-rocket-admin.php:3164
+msgid "Show total share count"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1151
+#: admin/includes/class-social-rocket-admin.php:2536
+msgid "Display the total share count for all social networks combined."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1160
+#: admin/includes/class-social-rocket-admin.php:1778
+#: admin/includes/class-social-rocket-admin.php:2545
+#: admin/includes/class-social-rocket-admin.php:3173
+msgid "Minimum total"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1162
+#: admin/includes/class-social-rocket-admin.php:2547
+msgid ""
+"Display the total share count only if greater than or equal to this number."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1170
+#: admin/includes/class-social-rocket-admin.php:1787
+#: admin/includes/class-social-rocket-admin.php:2555
+#: admin/includes/class-social-rocket-admin.php:3182
+msgid "Total share count position"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1174
+#: admin/includes/class-social-rocket-admin.php:1791
+#: admin/includes/class-social-rocket-admin.php:2559
+#: admin/includes/class-social-rocket-admin.php:3186
+msgid "Before Buttons"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1175
+#: admin/includes/class-social-rocket-admin.php:1792
+#: admin/includes/class-social-rocket-admin.php:2560
+#: admin/includes/class-social-rocket-admin.php:3187
+msgid "After Buttons"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1181
+#: admin/includes/class-social-rocket-admin.php:1798
+#: admin/includes/class-social-rocket-admin.php:2566
+#: admin/includes/class-social-rocket-admin.php:3193
+msgid "Total share text/icon color"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1189
+#: admin/includes/class-social-rocket-admin.php:1810
+#: admin/includes/class-social-rocket-admin.php:2574
+#: admin/includes/class-social-rocket-admin.php:3205
+#, php-format
+msgid "Show total share icon (%s)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1200
+#: admin/includes/class-social-rocket-admin.php:1820
+#: admin/includes/class-social-rocket-admin.php:2585
+#: admin/includes/class-social-rocket-admin.php:3215
+msgid "Advanced Placement Settings"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1201
+#: admin/includes/class-social-rocket-admin.php:1821
+#: admin/includes/class-social-rocket-admin.php:2586
+#: admin/includes/class-social-rocket-admin.php:3216
+msgid ""
+"The defaults are set above under Display Settings, but you can (optionally) "
+"refine it here if you want something other than the default for individual "
+"pages, posts, CPTs, or archives."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1205
+#: admin/includes/class-social-rocket-admin.php:1825
+#: admin/includes/class-social-rocket-admin.php:2590
+#: admin/includes/class-social-rocket-admin.php:3220
+msgid "Individual Pages, Posts, CPTs"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1207
+#: admin/includes/class-social-rocket-admin.php:2592
+msgid "Here you can override the placement settings for specific post types."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1233
+#: admin/includes/class-social-rocket-admin.php:1852
+#: admin/includes/class-social-rocket-admin.php:2617
+#: admin/includes/class-social-rocket-admin.php:3246
+msgid "Archives Pages"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1235
+#: admin/includes/class-social-rocket-admin.php:2619
+msgid ""
+"Here you can override the placement settings for specific types of archives "
+"pages."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1265
+#: admin/includes/class-social-rocket-admin.php:2649
+msgid "Mobile Settings"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1274
+#: admin/includes/class-social-rocket-admin.php:2658
+msgid "Disable on mobile"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1282
+#: admin/includes/class-social-rocket-admin.php:2666
+msgid "Use same settings as desktop"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1291
+#: admin/includes/class-social-rocket-admin.php:2675
+msgid "(PRO) Use custom settings:"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1292
+#: admin/includes/class-social-rocket-admin.php:2676
+#, php-format
+msgid ""
+"%s adds the ability to customize all the following settings specifically for "
+"mobile devices:"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1302
+#: admin/includes/class-social-rocket-admin.php:2686
+msgid "Mobile breakpoint (px)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1304
+#: admin/includes/class-social-rocket-admin.php:2688
+msgid ""
+"Mobile styling applies to screens less than or equal to this width, in "
+"pixels."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1397
+#: admin/includes/class-social-rocket-admin.php:1418
+#: admin/includes/class-social-rocket-admin.php:1436
+#: admin/includes/class-social-rocket-admin.php:1460
+#: admin/includes/class-social-rocket-admin.php:1478
+#: admin/includes/class-social-rocket-admin.php:1501
+#: admin/includes/class-social-rocket-admin.php:1605
+#: admin/includes/class-social-rocket-admin.php:1803
+#: admin/includes/class-social-rocket-admin.php:2781
+#: admin/includes/class-social-rocket-admin.php:2802
+#: admin/includes/class-social-rocket-admin.php:2820
+#: admin/includes/class-social-rocket-admin.php:2844
+#: admin/includes/class-social-rocket-admin.php:2862
+#: admin/includes/class-social-rocket-admin.php:2885
+#: admin/includes/class-social-rocket-admin.php:3198
+msgid "Select Color"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1886
+#: admin/includes/class-social-rocket-admin.php:3280
+msgid "Preview"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1953
+msgid "Welcome to Social Rocket! We’re so glad you’re here!"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1954
+msgid ""
+"Use the tiles below to view/change the way Social Rocket looks and behaves. "
+"There are many settings and options available to customize your sharing "
+"buttons."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1955
+#, php-format
+msgid ""
+"Our <a href=\"%s\" target=\"_blank\">documentation</a> explains each setting "
+"in greater detail. Need help finding something? <a href=\"%s\" target="
+"\"_blank\">Let us know</a>!"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1968
+#: admin/includes/class-social-rocket-admin.php:2040
+msgid "Inline Buttons"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1983
+#: admin/includes/class-social-rocket-admin.php:3409
+msgid "Settings"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1988
+#: admin/includes/class-social-rocket-admin.php:3415
+msgid "Social Extras"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:1993
+#: admin/includes/class-social-rocket-admin.php:3339
+msgid "License Keys"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2262
+msgid ""
+"Sets the default placement position for your inline buttons, on all "
+"individual pages, posts, CPTs."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2267
+#: admin/includes/class-social-rocket-admin.php:2604
+#: admin/includes/class-social-rocket-admin.php:2915
+#: admin/includes/class-social-rocket-admin.php:3233
+#: admin/includes/class-social-rocket-admin.php:4938
+#: admin/includes/class-social-rocket-admin.php:5130
+msgid "Above the content"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2271
+#: admin/includes/class-social-rocket-admin.php:2605
+#: admin/includes/class-social-rocket-admin.php:2919
+#: admin/includes/class-social-rocket-admin.php:3234
+#: admin/includes/class-social-rocket-admin.php:4939
+#: admin/includes/class-social-rocket-admin.php:5131
+msgid "Below the content"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2275
+#: admin/includes/class-social-rocket-admin.php:2606
+#: admin/includes/class-social-rocket-admin.php:2923
+#: admin/includes/class-social-rocket-admin.php:3235
+#: admin/includes/class-social-rocket-admin.php:4940
+#: admin/includes/class-social-rocket-admin.php:5132
+msgid "Both above and below the content"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2279
+#: admin/includes/class-social-rocket-admin.php:2312
+#: admin/includes/class-social-rocket-admin.php:2607
+#: admin/includes/class-social-rocket-admin.php:2635
+#: admin/includes/class-social-rocket-admin.php:2927
+#: admin/includes/class-social-rocket-admin.php:2959
+#: admin/includes/class-social-rocket-admin.php:3236
+#: admin/includes/class-social-rocket-admin.php:3263
+#: admin/includes/class-social-rocket-admin.php:4941
+#: admin/includes/class-social-rocket-admin.php:5133
+msgid "None/manual placement"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2289
+#: admin/includes/class-social-rocket-admin.php:2937
+msgid "Archive buttons placement"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2291
+msgid ""
+"Sets the default placement position for your inline buttons, on all archives "
+"pages."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2296
+#: admin/includes/class-social-rocket-admin.php:2631
+#: admin/includes/class-social-rocket-admin.php:2943
+#: admin/includes/class-social-rocket-admin.php:3259
+msgid "Above the content (shares the archive)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2300
+#: admin/includes/class-social-rocket-admin.php:2632
+#: admin/includes/class-social-rocket-admin.php:2947
+#: admin/includes/class-social-rocket-admin.php:3260
+msgid "Below the content (shares the archive)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2304
+#: admin/includes/class-social-rocket-admin.php:2633
+#: admin/includes/class-social-rocket-admin.php:2951
+#: admin/includes/class-social-rocket-admin.php:3261
+msgid "Both above and below (shares the archive)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2308
+#: admin/includes/class-social-rocket-admin.php:2634
+#: admin/includes/class-social-rocket-admin.php:2955
+#: admin/includes/class-social-rocket-admin.php:3262
+msgid "Buttons for each item (shares the item)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2339
+#: admin/includes/class-social-rocket-admin.php:2985
+msgid "Button alignment"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2375
+#, php-format
+msgid ""
+"If entered, this text will be displayed above the inline sharing buttons. "
+"(You can customize the styling by adding <a href=\"%s\">custom CSS</a> code "
+"targeting the class \".social-rocket-buttons-heading\".)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2383
+#: admin/includes/class-social-rocket-admin.php:3025
+msgid "Heading alignment"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2396
+#: admin/includes/class-social-rocket-admin.php:3038
+msgid "Heading element"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2400
+#: admin/includes/class-social-rocket-admin.php:3042
+msgid "H1"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2401
+#: admin/includes/class-social-rocket-admin.php:3043
+msgid "H2"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2402
+#: admin/includes/class-social-rocket-admin.php:3044
+msgid "H3"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2403
+#: admin/includes/class-social-rocket-admin.php:3045
+msgid "H4 (Default)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2404
+#: admin/includes/class-social-rocket-admin.php:3046
+msgid "H5"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2405
+#: admin/includes/class-social-rocket-admin.php:3047
+msgid "H6"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:2406
+#: admin/includes/class-social-rocket-admin.php:3048
+msgid "P"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3356
+#, php-format
+msgid ""
+"This page is where you enter license keys for any pro products you have "
+"purchased from <a target=\"_blank\" href=\"%s\">Social Rocket</a>."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3358
+msgid "Instructions"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3360
+#, php-format
+msgid ""
+"Before you can enter your license key, you must install and activate the "
+"product first.  You can do this from your <a href=\"%s\" target=\"_blank"
+"\">Plugins</a> page."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3361
+#, php-format
+msgid ""
+"For step-by-step instructions, please read our FAQ page <a href=\"%s\" "
+"target=\"_blank\">How do I install and activate Social Rocket pro products?</"
+"a>"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3362
+msgid ""
+"Once your products are installed and activated, you can activate your "
+"license keys by doing the following:"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3363
+msgid ""
+"1. Copy the license key for your product and paste it into the corresponding "
+"field below."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3364
+msgid "2. Click the <strong>Activate License</strong> button."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3365
+msgid "3. That's it!  Be sure to watch for any new updates."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3368
+msgid "Where can I find my license keys?"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3370
+msgid ""
+"You should have received a Purchase Receipt email that contains the license "
+"key for each product you have purchased from Social Rocket"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3371
+#, php-format
+msgid ""
+"If you have lost the email, you can login to your account at Social Rocket "
+"<a target=\"_blank\" href=\"%s\">here</a> to get your license key(s)."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3380
+msgid "No products found."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3416
+#: admin/includes/class-social-rocket-admin.php:3664
+msgid "Tools"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3428
+msgid "Advanced Settings"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3434
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3442
+msgid "Decimal places"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3444
+msgid "How many decimal places to show in share counts."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3452
+msgid "Decimal separator"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3460
+msgid "Don't load FontAwesome"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3462
+msgid ""
+"If checked, prevents Social Rocket from loading our bundled version of "
+"FontAwesome icons. Use this if you are already loading FontAwesome some "
+"other way."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3471
+msgid "Don't output OG tags"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3473
+msgid ""
+"If checked, prevents Social Rocket from adding Open Graph meta tags to your "
+"site's code. Use this if you already have a different plugin handling your "
+"OG tags."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3482
+msgid "Don't output Twitter cards"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3484
+msgid ""
+"If checked, prevents Social Rocket from adding Twitter Card meta tags to "
+"your site's code. Use this if you already have a different plugin handling "
+"your Twitter Cards."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3497
+msgid "Automatically Backup Data Before Plugin Update"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3502
+msgid ""
+"Backup file will be saved in your WP uploads folder, i.e. /wp-content/"
+"uploads/social-rocket-backups/"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3507
+msgid "Refresh interval"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3509
+msgid ""
+"How often, in seconds, to check for updated counts. Recommended value: 3600 "
+"(i.e. 1 hour)."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3517
+msgid "Master API throttle"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3519
+msgid ""
+"Minimum delay, in seconds, between background API requests. Recommended "
+"value: 1 (i.e. 1 second).  If your site has limited CPU resources or you are "
+"hitting an API rate limit, you can increase this value to slow down "
+"background processing.  However things like Share Counts make take longer to "
+"update."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3527
+msgid "Automatically fix Gutenberg blocks"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3529
+msgid ""
+"If checked, will automatically fix issues detected with Gutenberg blocks."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3541
+msgid "Danger Zone"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3545
+msgid "Reset all Social Rocket settings to factory defaults"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3553
+msgid "Delete all Social Rocket data and settings when plugin is deactivated"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3558
+msgid ""
+"Warning: this cannot be undone. If this is the Primary Site in a WP "
+"Multisite environment, and you network-deactivate the plugin with this "
+"setting checked, all Social Rocket data from all sites in the network will "
+"be deleted."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3569
+msgid "Facebook Settings"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3573
+msgid "Access Token"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3575
+msgid ""
+"To get the most accurate counts, a Facebook API v3.0 access token is needed."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3579
+#, php-format
+msgid ""
+"In order to get accurate share counts, Facebook requires an API access "
+"token.  Enter your access token here.  For help getting your access token, "
+"<a href=\"%s\" target=\"_blank\">see our website for more info</a>."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3583
+msgid "Pinterest Settings"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3587
+msgid "Pinterest Username"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3589
+msgid "Entering a username will tag your user in Pinterest shares."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3592
+#: admin/includes/class-social-rocket-admin.php:3642
+msgid "@username"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3597
+msgid "Pinterest Image Fallback"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3599
+msgid ""
+"If no Pinterest Image is set in the post settings, this setting allows you "
+"to choose which image will be shared instead."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3603
+msgid "Use Featured Image, if available"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3604
+msgid "Ask user to choose from images on the page"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3611
+msgid "(PRO) Enable Pin Image for Browser Extensions"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3613
+msgid ""
+"Loads your Pinterest Image specially for use in Pinterest Browser Extensions."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3621
+msgid "(PRO) Enable Pin Description for all images"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3623
+msgid ""
+"Adds a <code>data-pin-description</code> attribute to all images on the page "
+"which don't already have one."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3633
+msgid "Twitter Settings"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3637
+#: admin/includes/class-social-rocket-admin.php:5493
+msgid "Twitter Username"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3639
+#, php-format
+msgid ""
+"Entering a username will tag your user in tweets. This can be overridden for "
+"specific users by editing their <a href=\"%s\">profile</a>."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3648
+msgid "(PRO) Enable Twitter counts"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3668
+msgid "Export Settings"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3669
+msgid ""
+"Export your Social Rocket settings for this site as a .json file. This "
+"allows you to easily import the configuration into another site."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3673
+msgid "Import Settings"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3674
+msgid ""
+"Import Social Rocket settings from a .json file. This file can be obtained "
+"by exporting the settings on another site using the form above."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3681
+msgid "Backup All Data"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3682
+msgid ""
+"Backup all your Social Rocket data and settings for this site to a .json "
+"file. Includes post/page-specific data. (Do not use to restore to a "
+"different site.)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3686
+msgid "Restore All Data"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3687
+msgid ""
+"Restore a backup .json file for this site. Includes post/page-specific data. "
+"(Do not use a backup file from a different site.)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3696
+msgid "Recalculate All Count Data"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3697
+msgid ""
+"This will reset all your share count data and begin recalculating from "
+"scratch."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3698
+msgid "Recalculate all counts"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3748
+msgid "Settings successfully imported"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3752
+#: admin/includes/class-social-rocket-admin.php:3783
+msgid "Error: unable to parse .json file"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3758
+#: admin/includes/class-social-rocket-admin.php:3842
+msgid "Error: please upload a valid .json file"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3837
+msgid "Restore successfully completed"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:3865
+msgid "Settings reset successfully"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4401
+#: admin/includes/class-social-rocket-admin.php:4463
+#: admin/includes/class-social-rocket-admin.php:5040
+msgid "Social Rocket Settings"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4407
+msgid "Pinterest<br />Description"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4456
+msgid "Hide"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4458
+msgid "Reset"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4459
+msgid "Are you sure?"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4460
+msgid ""
+"Are you sure? This Saved Style will be replaced with the currently displayed "
+"settings."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4461
+msgid "You have unsaved changes. Are you sure you want to leave this page?"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4462
+#: admin/includes/class-social-rocket-admin.php:4925
+#: admin/includes/class-social-rocket-admin.php:5117
+msgid "Pinterest Description"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4464
+msgid "Recalculation scheduled"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4467
+msgid "no name"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4468
+msgid "Social Rocket Inline Buttons - Shortcode Builder"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4470
+msgid "Networks (optional; defaults to all active networks)"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4473
+msgid "Social Rocket - Click to Tweet"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4474
+msgid "Social Rocket Click to Tweet - Shortcode Builder"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4475
+msgid "Add Shortcode"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4476
+msgid "Cancel"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4480
+msgid "The URL of the post will be added to the tweet"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4482
+msgid ""
+"The Twitter username saved in the Settings page will be added to the tweet."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4487
+msgid "Style loaded successfully"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4488
+msgid "Style saved successfully"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4858
+#: admin/includes/class-social-rocket-admin.php:5050
+msgid "Social Media Image"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4875
+#: admin/includes/class-social-rocket-admin.php:4896
+#: admin/includes/class-social-rocket-admin.php:5067
+#: admin/includes/class-social-rocket-admin.php:5088
+msgid "Upload Image"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4877
+#: admin/includes/class-social-rocket-admin.php:5069
+msgid ""
+"An image optimized for maximum impact on most social networks, including "
+"Facebook. Recommended size: 1200 x 630 px."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4879
+#: admin/includes/class-social-rocket-admin.php:5071
+msgid "Pinterest Image"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4898
+#: admin/includes/class-social-rocket-admin.php:5090
+msgid ""
+"An image optimized for maximum impact on Pinterest. Recommended size: 735 x "
+"1102 px."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4906
+#: admin/includes/class-social-rocket-admin.php:5098
+msgid "Social Media Title"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4908
+#: admin/includes/class-social-rocket-admin.php:4913
+#: admin/includes/class-social-rocket-admin.php:4920
+#: admin/includes/class-social-rocket-admin.php:4927
+#: admin/includes/class-social-rocket-admin.php:5100
+#: admin/includes/class-social-rocket-admin.php:5105
+#: admin/includes/class-social-rocket-admin.php:5112
+#: admin/includes/class-social-rocket-admin.php:5119
+#, php-format
+msgid "%s Characters Remaining"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4909
+#: admin/includes/class-social-rocket-admin.php:5101
+msgid ""
+"Content to populate the open graph \"title\" meta tag, which is shown when "
+"your content is shared to most social networks. If left blank, the post "
+"title will be used by default."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4911
+#: admin/includes/class-social-rocket-admin.php:5103
+msgid "Social Media Description"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4914
+#: admin/includes/class-social-rocket-admin.php:5106
+msgid ""
+"Content to populate the open graph \"description\" meta tag, which is shown "
+"when your content is shared to most social networks."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4918
+#: admin/includes/class-social-rocket-admin.php:5110
+msgid "Custom Tweet"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4921
+#: admin/includes/class-social-rocket-admin.php:5113
+msgid ""
+"If this is left blank your post title will be used. Be sure to leave enough "
+"room for a link to be added!"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4928
+#: admin/includes/class-social-rocket-admin.php:5120
+msgid ""
+"The description that will be used when this post is shared on Pinterest. If "
+"left blank, the post title will be used by default."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4935
+#: admin/includes/class-social-rocket-admin.php:5127
+msgid "Inline Buttons Position"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4937
+#: admin/includes/class-social-rocket-admin.php:4947
+#: admin/includes/class-social-rocket-admin.php:5129
+#: admin/includes/class-social-rocket-admin.php:5139
+msgid "Use default setting"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:4945
+#: admin/includes/class-social-rocket-admin.php:5137
+msgid "Floating Buttons Position"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:5486
+msgid "Facebook Profile URL"
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:5489
+msgid "Please enter the URL of your Facebook profile."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:5496
+msgid "Please enter your Twitter username."
+msgstr ""
+
+#: admin/includes/class-social-rocket-admin.php:5543
+#, php-format
+msgid ""
+"Social Rocket received the following error from the Facebook API: \"%s\".  "
+"Please make sure your Facebook Access Token is correct on the <a href=\"%s"
+"\">settings page</a>."
+msgstr ""
+
+#: includes/class-social-rocket-background-process.php:600
+#: vendor/wp-background-processing/classes/wp-background-process.php:425
+#, php-format
+msgid "Every %d Minutes"
+msgstr ""
+
+#: includes/class-social-rocket.php:299
+msgid "Blog Index"
+msgstr ""
+
+#: includes/class-social-rocket.php:300
+msgid "Author"
+msgstr ""
+
+#: includes/class-social-rocket.php:301
+msgid "Categories"
+msgstr ""
+
+#: includes/class-social-rocket.php:302
+msgid "Date-based Archives"
+msgstr ""
+
+#: includes/class-social-rocket.php:303
+msgid "Tags"
+msgstr ""
+
+#: includes/class-social-rocket.php:1486 includes/class-social-rocket.php:1903
+#: includes/networks/class-social-rocket-buffer.php:51
+#: includes/networks/class-social-rocket-facebook.php:53
+#: includes/networks/class-social-rocket-linkedin.php:51
+#: includes/networks/class-social-rocket-mix.php:51
+#: includes/networks/class-social-rocket-reddit.php:51
+#: includes/social-rocket-activate.php:81
+#, fuzzy
+msgid "Share"
+msgid_plural "Shares"
+msgstr[0] ""
+"#-#-#-#-#  1extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  2extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr[1] "#-#-#-#-#  1extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+
+#: includes/class-social-rocket.php:3888
+msgid "B"
+msgstr ""
+
+#: includes/class-social-rocket.php:3890
+msgid "M"
+msgstr ""
+
+#: includes/class-social-rocket.php:3892
+msgid "K"
+msgstr ""
+
+#: includes/networks/class-social-rocket-buffer.php:62
+#: includes/networks/class-social-rocket-email.php:67
+#: includes/networks/class-social-rocket-facebook.php:65
+#: includes/networks/class-social-rocket-linkedin.php:58
+#: includes/networks/class-social-rocket-mix.php:58
+#: includes/networks/class-social-rocket-pinterest.php:62
+#: includes/networks/class-social-rocket-print.php:65
+#: includes/networks/class-social-rocket-reddit.php:62
+#: includes/networks/class-social-rocket-twitter.php:64
+msgid "Button Text"
+msgstr ""
+
+#: includes/networks/class-social-rocket-buffer.php:66
+#: includes/networks/class-social-rocket-email.php:81
+#: includes/networks/class-social-rocket-facebook.php:69
+#: includes/networks/class-social-rocket-linkedin.php:62
+#: includes/networks/class-social-rocket-mix.php:62
+#: includes/networks/class-social-rocket-pinterest.php:66
+#: includes/networks/class-social-rocket-print.php:69
+#: includes/networks/class-social-rocket-reddit.php:66
+#: includes/networks/class-social-rocket-twitter.php:68
+msgid "Icon CSS Class"
+msgstr ""
+
+#: includes/networks/class-social-rocket-buffer.php:70
+#: includes/networks/class-social-rocket-email.php:85
+#: includes/networks/class-social-rocket-facebook.php:73
+#: includes/networks/class-social-rocket-linkedin.php:66
+#: includes/networks/class-social-rocket-mix.php:66
+#: includes/networks/class-social-rocket-pinterest.php:70
+#: includes/networks/class-social-rocket-print.php:73
+#: includes/networks/class-social-rocket-reddit.php:70
+#: includes/networks/class-social-rocket-twitter.php:72
+msgid "Icon Color"
+msgstr ""
+
+#: includes/networks/class-social-rocket-buffer.php:75
+#: includes/networks/class-social-rocket-email.php:90
+#: includes/networks/class-social-rocket-facebook.php:78
+#: includes/networks/class-social-rocket-linkedin.php:71
+#: includes/networks/class-social-rocket-mix.php:71
+#: includes/networks/class-social-rocket-pinterest.php:75
+#: includes/networks/class-social-rocket-print.php:78
+#: includes/networks/class-social-rocket-reddit.php:75
+#: includes/networks/class-social-rocket-twitter.php:77
+msgid "Icon Hover Color"
+msgstr ""
+
+#: includes/networks/class-social-rocket-buffer.php:85
+#: includes/networks/class-social-rocket-email.php:100
+#: includes/networks/class-social-rocket-facebook.php:88
+#: includes/networks/class-social-rocket-linkedin.php:81
+#: includes/networks/class-social-rocket-mix.php:81
+#: includes/networks/class-social-rocket-pinterest.php:85
+#: includes/networks/class-social-rocket-print.php:88
+#: includes/networks/class-social-rocket-reddit.php:85
+#: includes/networks/class-social-rocket-twitter.php:87
+msgid "Background Hover Color"
+msgstr ""
+
+#: includes/networks/class-social-rocket-buffer.php:95
+#: includes/networks/class-social-rocket-email.php:110
+#: includes/networks/class-social-rocket-facebook.php:98
+#: includes/networks/class-social-rocket-linkedin.php:91
+#: includes/networks/class-social-rocket-mix.php:91
+#: includes/networks/class-social-rocket-pinterest.php:95
+#: includes/networks/class-social-rocket-print.php:98
+#: includes/networks/class-social-rocket-reddit.php:95
+#: includes/networks/class-social-rocket-twitter.php:97
+msgid "Border Hover Color"
+msgstr ""
+
+#: includes/networks/class-social-rocket-email.php:57
+msgid "Email"
+msgstr ""
+
+#: includes/networks/class-social-rocket-email.php:58
+msgid "I saw this and thought of you! %url%"
+msgstr ""
+
+#: includes/networks/class-social-rocket-email.php:71
+msgid "Email Subject"
+msgstr ""
+
+#: includes/networks/class-social-rocket-email.php:75
+msgid "Email Body"
+msgstr ""
+
+#: includes/networks/class-social-rocket-email.php:77
+msgid "The following wildcards are allowed: %page_title%, %url%"
+msgstr ""
+
+#: includes/networks/class-social-rocket-pinterest.php:51
+msgid "Pin"
+msgstr ""
+
+#: includes/networks/class-social-rocket-pinterest.php:253
+msgid "via"
+msgstr ""
+
+#: includes/networks/class-social-rocket-print.php:57
+msgid "Print"
+msgstr ""
+
+#: includes/networks/class-social-rocket-twitter.php:53
+msgid "Tweet"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Social Sharing... to the Moon!"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wpsocialrocket.com/"
+msgstr ""

@@ -1,0 +1,387 @@
+﻿<!DOCTYPE html>
+<!--[if IE 8]>
+<html xmlns="http://www.w3.org/1999/xhtml" class="ie8 wp-toolbar"
+	lang="fr-FR"	>
+<![endif]-->
+<!--[if !(IE 8) ]><!-->
+<html xmlns="http://www.w3.org/1999/xhtml" class="wp-toolbar"
+	lang="fr-FR"	>
+<!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Sauvegardes &lsaquo; GEE Tlemcen &#8212; WordPress</title>
+<script type="text/javascript">
+addLoadEvent = function(func){if(typeof jQuery!="undefined")jQuery(document).ready(func);else if(typeof wpOnload!='function'){wpOnload=func;}else{var oldonload=wpOnload;wpOnload=function(){oldonload();func();}}};
+var ajaxurl = '/wordPress_gee/wp-admin/admin-ajax.php',
+	pagenow = 'backwpup_page_backwpupbackups',
+	typenow = '',
+	adminpage = 'backwpup_page_backwpupbackups',
+	thousandsSeparator = ' ',
+	decimalPoint = ',',
+	isRtl = 0;
+</script>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+		<style type="text/css" media="screen">
+			.column-size, .column-time {
+				width: 10%;
+			}
+
+			@media screen and (max-width: 782px) {
+				.column-size, .column-runtime, .column-size, .column-folder {
+					display: none;
+				}
+
+				.column-time {
+					width: 18%;
+				}
+			}
+		</style>
+		<link rel='dns-prefetch' href='//s.w.org' />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' href='http://localhost/wordPress_gee/wp-admin/load-styles.php?c=0&amp;dir=ltr&amp;load%5Bchunk_0%5D=dashicons,admin-bar,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets&amp;load%5Bchunk_1%5D=,site-icon,l10n,buttons,wp-auth-check&amp;ver=5.4.1' type="text/css" media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://localhost/wordPress_gee/wp-includes/js/thickbox/thickbox.css?ver=5.4.1' media='all' />
+<link rel='stylesheet' id='colors-css'  href='http://localhost/wordPress_gee/wp-admin/css/colors/light/colors.min.css?ver=5.4.1' media='all' />
+<!--[if lte IE 7]>
+<link rel='stylesheet' id='ie-css'  href='http://localhost/wordPress_gee/wp-admin/css/ie.min.css?ver=5.4.1' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='backwpup-css'  href='http://localhost/wordPress_gee/wp-content/plugins/backwpup/assets/css/main.min.css?ver=1589811696' media='screen' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost\/wordPress_gee\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.1"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		
+<script type='text/javascript'>
+/* <![CDATA[ */
+var userSettings = {"url":"\/wordPress_gee\/","uid":"1","time":"1589814516","secure":""};/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/wordPress_gee/wp-admin/load-scripts.php?c=0&amp;load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils&amp;ver=5.4.1'></script>
+<script src='http://localhost/wordPress_gee/wp-content/plugins/backwpup/assets/js/general.min.js?ver=3.7.1'></script>
+	<link id="wp-admin-canonical" rel="canonical" href="http://localhost/wordPress_gee/wp-admin/admin.php?page=backwpupbackups&#038;action=downloadfolder&#038;file=2020-05-18_17-05-06_SIEDCEG201.zip&#038;local_file=2020-05-18_17-05-06_SIEDCEG201.zip&#038;jobid=1&#038;_wpnonce=e86aa1d93c" />
+	<script>
+		if ( window.history.replaceState ) {
+			window.history.replaceState( null, null, document.getElementById( 'wp-admin-canonical' ).href + window.location.hash );
+		}
+	</script>
+	<script type="text/javascript">var _wpColorScheme = {"icons":{"base":"#999","focus":"#ccc","current":"#ccc"}};</script>
+<link rel="icon" href="http://localhost/wordPress_gee/wp-content/uploads/2020/05/logo-univ-tlm-1-100x100.png" sizes="32x32" />
+<link rel="icon" href="http://localhost/wordPress_gee/wp-content/uploads/2020/05/logo-univ-tlm-1.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://localhost/wordPress_gee/wp-content/uploads/2020/05/logo-univ-tlm-1.png" />
+<meta name="msapplication-TileImage" content="http://localhost/wordPress_gee/wp-content/uploads/2020/05/logo-univ-tlm-1.png" />
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+	</head>
+<body class="wp-admin wp-core-ui no-js backwpup_page_backwpupbackups folded auto-fold admin-bar branch-5-4 version-5-4-1 admin-color-light locale-fr-fr no-customize-support no-svg">
+<script type="text/javascript">
+	document.body.className = document.body.className.replace('no-js','js');
+</script>
+
+	<!--[if lte IE 8]>
+		<script type="text/javascript">
+			document.body.className = document.body.className.replace( /(^|\s)(no-)?customize-support(?=\s|$)/, '' ) + ' no-customize-support';
+		</script>
+	<![endif]-->
+	<!--[if gte IE 9]><!-->
+		<script type="text/javascript">
+			(function() {
+				var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+						request = true;
+		
+				b[c] = b[c].replace( rcs, ' ' );
+				// The customizer requires postMessage and CORS (if the site is cross domain).
+				b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+			}());
+		</script>
+	<!--<![endif]-->
+	
+<div id="wpwrap">
+
+<div id="adminmenumain" role="navigation" aria-label="Menu principal">
+<a href="#wpbody-content" class="screen-reader-shortcut">Aller au contenu principal</a>
+<a href="#wp-toolbar" class="screen-reader-shortcut">Aller à la barre d’outils</a>
+<div id="adminmenuback"></div>
+<div id="adminmenuwrap">
+<ul id="adminmenu">
+
+
+	<li class="wp-first-item wp-has-submenu wp-not-current-submenu menu-top menu-top-first menu-icon-dashboard menu-top-last" id="menu-dashboard">
+	<a href='index.php' class="wp-first-item wp-has-submenu wp-not-current-submenu menu-top menu-top-first menu-icon-dashboard menu-top-last" aria-haspopup="true"><div class="wp-menu-arrow"><div></div></div><div class='wp-menu-image dashicons-before dashicons-dashboard'><br /></div><div class='wp-menu-name'>Tableau de bord</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Tableau de bord</li><li class="wp-first-item"><a href='index.php' class="wp-first-item">Accueil</a></li><li><a href='update-core.php'>Mises à jour <span class="update-plugins count-1"><span class="update-count">1</span></span></a></li></ul></li>
+	<li class="wp-not-current-submenu wp-menu-separator" aria-hidden="true"><div class="separator"></div></li>
+	<li class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-post open-if-no-js menu-top-first" id="menu-posts">
+	<a href='edit.php' class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-post open-if-no-js menu-top-first" aria-haspopup="true"><div class="wp-menu-arrow"><div></div></div><div class='wp-menu-image dashicons-before dashicons-admin-post'><br /></div><div class='wp-menu-name'>Articles</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Articles</li><li class="wp-first-item"><a href='edit.php' class="wp-first-item">Tous les articles</a></li><li><a href='post-new.php'>Ajouter</a></li><li><a href='edit-tags.php?taxonomy=category'>Catégories</a></li><li><a href='edit-tags.php?taxonomy=post_tag'>Étiquettes</a></li></ul></li>
+	<li class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-media" id="menu-media">
+	<a href='upload.php' class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-media" aria-haspopup="true"><div class="wp-menu-arrow"><div></div></div><div class='wp-menu-image dashicons-before dashicons-admin-media'><br /></div><div class='wp-menu-name'>Médias</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Médias</li><li class="wp-first-item"><a href='upload.php' class="wp-first-item">Bibliothèque</a></li><li><a href='media-new.php'>Ajouter</a></li></ul></li>
+	<li class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-page" id="menu-pages">
+	<a href='edit.php?post_type=page' class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-page" aria-haspopup="true"><div class="wp-menu-arrow"><div></div></div><div class='wp-menu-image dashicons-before dashicons-admin-page'><br /></div><div class='wp-menu-name'>Pages</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Pages</li><li class="wp-first-item"><a href='edit.php?post_type=page' class="wp-first-item">Toutes les pages</a></li><li><a href='post-new.php?post_type=page'>Ajouter</a></li></ul></li>
+	<li class="wp-not-current-submenu menu-top menu-icon-comments menu-top-last" id="menu-comments">
+	<a href='edit-comments.php' class="wp-not-current-submenu menu-top menu-icon-comments menu-top-last" ><div class="wp-menu-arrow"><div></div></div><div class='wp-menu-image dashicons-before dashicons-admin-comments'><br /></div><div class='wp-menu-name'>Commentaires <span class="awaiting-mod count-0"><span class="pending-count" aria-hidden="true">0</span><span class="comments-in-moderation-text screen-reader-text">0 commentaire en modération</span></span></div></a></li>
+	<li class="wp-not-current-submenu wp-menu-separator" aria-hidden="true"><div class="separator"></div></li>
+	<li class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-appearance menu-top-first" id="menu-appearance">
+	<a href='themes.php' class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-appearance menu-top-first" aria-haspopup="true"><div class="wp-menu-arrow"><div></div></div><div class='wp-menu-image dashicons-before dashicons-admin-appearance'><br /></div><div class='wp-menu-name'>Apparence</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Apparence</li><li class="wp-first-item"><a href='themes.php' class="wp-first-item">Thèmes</a></li><li class="hide-if-no-customize"><a href='customize.php?return=%2FwordPress_gee%2Fwp-admin%2Fadmin.php%3Fpage%3Dbackwpupbackups%26action%3Ddownloadfolder%26file%3D2020-05-18_17-05-06_SIEDCEG201.zip%26local_file%3D2020-05-18_17-05-06_SIEDCEG201.zip%26jobid%3D1%26_wpnonce%3De86aa1d93c' class="hide-if-no-customize">Personnaliser</a></li><li><a href='widgets.php'>Widgets</a></li><li><a href='nav-menus.php'>Menus</a></li><li class="hide-if-no-customize"><a href='customize.php?return=%2FwordPress_gee%2Fwp-admin%2Fadmin.php%3Fpage%3Dbackwpupbackups%26action%3Ddownloadfolder%26file%3D2020-05-18_17-05-06_SIEDCEG201.zip%26local_file%3D2020-05-18_17-05-06_SIEDCEG201.zip%26jobid%3D1%26_wpnonce%3De86aa1d93c&#038;autofocus%5Bcontrol%5D=header_image' class="hide-if-no-customize">En-tête</a></li><li class="hide-if-no-customize"><a href='customize.php?return=%2FwordPress_gee%2Fwp-admin%2Fadmin.php%3Fpage%3Dbackwpupbackups%26action%3Ddownloadfolder%26file%3D2020-05-18_17-05-06_SIEDCEG201.zip%26local_file%3D2020-05-18_17-05-06_SIEDCEG201.zip%26jobid%3D1%26_wpnonce%3De86aa1d93c&#038;autofocus%5Bcontrol%5D=background_image' class="hide-if-no-customize">Arrière-plan</a></li><li><a href='themes.php?page=custom-header'>En-tête</a></li><li><a href='themes.php?page=custom-background'>Arrière-plan</a></li><li><a href='theme-editor.php'>Éditeur de thème</a></li></ul></li>
+	<li class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-plugins" id="menu-plugins">
+	<a href='plugins.php' class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-plugins" aria-haspopup="true"><div class="wp-menu-arrow"><div></div></div><div class='wp-menu-image dashicons-before dashicons-admin-plugins'><br /></div><div class='wp-menu-name'>Extensions <span class="update-plugins count-0"><span class="plugin-count">0</span></span></div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Extensions <span class="update-plugins count-0"><span class="plugin-count">0</span></span></li><li class="wp-first-item"><a href='plugins.php' class="wp-first-item">Extensions installées</a></li><li><a href='plugin-install.php'>Ajouter</a></li><li><a href='plugin-editor.php'>Éditeur d’extension</a></li></ul></li>
+	<li class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-users" id="menu-users">
+	<a href='users.php' class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-users" aria-haspopup="true"><div class="wp-menu-arrow"><div></div></div><div class='wp-menu-image dashicons-before dashicons-admin-users'><br /></div><div class='wp-menu-name'>Utilisateurs</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Utilisateurs</li><li class="wp-first-item"><a href='users.php' class="wp-first-item">Tous les utilisateurs</a></li><li><a href='user-new.php'>Ajouter</a></li><li><a href='profile.php'>Votre profil</a></li></ul></li>
+	<li class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-tools" id="menu-tools">
+	<a href='tools.php' class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-tools" aria-haspopup="true"><div class="wp-menu-arrow"><div></div></div><div class='wp-menu-image dashicons-before dashicons-admin-tools'><br /></div><div class='wp-menu-name'>Outils</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Outils</li><li class="wp-first-item"><a href='tools.php' class="wp-first-item">Outils disponibles</a></li><li><a href='import.php'>Importer</a></li><li><a href='export.php'>Exporter</a></li><li><a href='site-health.php'>Santé du site</a></li><li><a href='export-personal-data.php'>Exporter les données</a></li><li><a href='erase-personal-data.php'>Effacer les données</a></li></ul></li>
+	<li class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-settings menu-top-last" id="menu-settings">
+	<a href='options-general.php' class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-settings menu-top-last" aria-haspopup="true"><div class="wp-menu-arrow"><div></div></div><div class='wp-menu-image dashicons-before dashicons-admin-settings'><br /></div><div class='wp-menu-name'>Réglages</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Réglages</li><li class="wp-first-item"><a href='options-general.php' class="wp-first-item">Général</a></li><li><a href='options-writing.php'>Écriture</a></li><li><a href='options-reading.php'>Lecture</a></li><li><a href='options-discussion.php'>Commentaires</a></li><li><a href='options-media.php'>Médias</a></li><li><a href='options-permalink.php'>Permaliens</a></li><li><a href='options-privacy.php'>Confidentialité</a></li></ul></li>
+	<li class="wp-not-current-submenu wp-menu-separator" aria-hidden="true"><div class="separator"></div></li>
+	<li class="wp-has-submenu wp-has-current-submenu wp-menu-open menu-top toplevel_page_backwpup menu-top-first menu-top-last" id="toplevel_page_backwpup"><a href='admin.php?page=backwpup' class="wp-has-submenu wp-has-current-submenu wp-menu-open menu-top toplevel_page_backwpup menu-top-first menu-top-last" ><div class="wp-menu-arrow"><div></div></div><div class='wp-menu-image dashicons-before'><br /></div><div class='wp-menu-name'>BackWPup</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>BackWPup</li><li class="wp-first-item"><a href='admin.php?page=backwpup' class="wp-first-item">Tableau de bord</a></li><li><a href='admin.php?page=backwpupjobs'>Tâches</a></li><li><a href='admin.php?page=backwpupeditjob'>Ajouter une tâche</a></li><li><a href='admin.php?page=backwpuplogs'>Journaux</a></li><li class="current"><a href='admin.php?page=backwpupbackups' class="current" aria-current="page">Sauvegardes</a></li><li><a href='admin.php?page=backwpupsettings'>Réglages</a></li><li><a href='admin.php?page=backwpupabout'>À propos</a></li><li><a href='admin.php?page=backwpup-phone-home-consent'>Help BackWPup</a></li></ul></li><li id="collapse-menu" class="hide-if-no-js"><button type="button" id="collapse-button" aria-label="Replier le menu principal" aria-expanded="true"><span class="collapse-button-icon" aria-hidden="true"></span><span class="collapse-button-label">Réduire le menu</span></button></li></ul>
+</div>
+</div>
+<div id="wpcontent">
+
+		<div id="wpadminbar" class="nojq nojs">
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Barre d’outils">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-menu-toggle'><a class='ab-item' href='#'><span class="ab-icon"></span><span class="screen-reader-text">Menu</span></a></li><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/wordPress_gee/wp-admin/about.php'><span class="ab-icon"></span><span class="screen-reader-text">À propos de WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='http://localhost/wordPress_gee/wp-admin/about.php'>À propos de WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://fr.wordpress.org/'>Site de WordPress-FR</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://codex.wordpress.org/'>Documentation</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wpfr.net/support/'>Forums de support</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Remarque</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/wordPress_gee/'>GEE Tlemcen</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-view-site'><a class='ab-item' href='http://localhost/wordPress_gee/'>Aller sur le site</a></li></ul></div></li><li id='wp-admin-bar-updates'><a class='ab-item' href='http://localhost/wordPress_gee/wp-admin/update-core.php' title='1 mise à jour de thème'><span class="ab-icon"></span><span class="ab-label">1</span><span class="screen-reader-text">1 mise à jour de thème</span></a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='http://localhost/wordPress_gee/wp-admin/edit-comments.php'><span class="ab-icon"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 commentaire en modération</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/wordPress_gee/wp-admin/post-new.php'><span class="ab-icon"></span><span class="ab-label">Créer</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-post'><a class='ab-item' href='http://localhost/wordPress_gee/wp-admin/post-new.php'>Article</a></li><li id='wp-admin-bar-new-media'><a class='ab-item' href='http://localhost/wordPress_gee/wp-admin/media-new.php'>Fichier média</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='http://localhost/wordPress_gee/wp-admin/post-new.php?post_type=page'>Page</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='http://localhost/wordPress_gee/wp-admin/user-new.php'>Utilisateur</a></li></ul></div></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='http://localhost/wordPress_gee/wp-admin/profile.php'>Bonjour, <span class="display-name">admin</span><img alt='' src='http://0.gravatar.com/avatar/cc65b915d9f39aee86daa56e74d82ed3?s=26&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/cc65b915d9f39aee86daa56e74d82ed3?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' /></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='http://localhost/wordPress_gee/wp-admin/profile.php'><img alt='' src='http://0.gravatar.com/avatar/cc65b915d9f39aee86daa56e74d82ed3?s=64&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/cc65b915d9f39aee86daa56e74d82ed3?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' /><span class='display-name'>admin</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='http://localhost/wordPress_gee/wp-admin/profile.php'>Modifier mon profil</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='http://localhost/wordPress_gee/wp-login.php?action=logout&#038;_wpnonce=e64b7c1610'>Se déconnecter</a></li></ul></div></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://localhost/wordPress_gee/wp-login.php?action=logout&#038;_wpnonce=e64b7c1610">Se déconnecter</a>
+					</div>
+
+		
+<div id="wpbody" role="main">
+
+<div id="wpbody-content">
+		<div id="screen-meta" class="metabox-prefs">
+
+			<div id="contextual-help-wrap" class="hidden" tabindex="-1" aria-label="Onglet d’aide contextuelle">
+				<div id="contextual-help-back"></div>
+				<div id="contextual-help-columns">
+					<div class="contextual-help-tabs">
+						<ul>
+						
+							<li id="tab-link-plugininfo" class="active">
+								<a href="#tab-panel-plugininfo" aria-controls="tab-panel-plugininfo">
+									Info extension								</a>
+							</li>
+													</ul>
+					</div>
+
+										<div class="contextual-help-sidebar">
+						<p><strong>Pour plus d’informations :</strong></p><p><a href="http://backwpup.com">BackWPup</a></p><p><a href="http://wordpress.org/extend/plugins/backwpup/">Extension sur wordpress.org</a></p><p><a href="http://docs.backwpup.com">Manuel</a></p>					</div>
+					
+					<div class="contextual-help-tabs-wrap">
+						
+							<div id="tab-panel-plugininfo" class="help-tab-content active">
+								<p> <a href="http://backwpup.com">BackWPup</a> version 3.7.1. Un projet de <a href="http://inpsyde.com">Inpsyde GmbH</a>.</p><p>BackWPup est livré sans AUCUNE GARANTIE. C’est un logiciel libre, et vous êtes invités à le redistribuer sous certaines conditions.</p>							</div>
+												</div>
+				</div>
+			</div>
+		<div id="screen-options-wrap" class="hidden" tabindex="-1" aria-label="Onglet des options de l’écran">
+<form id='adv-settings' method='post'>
+		<fieldset class="metabox-prefs">
+		<legend>Colonnes</legend>
+		<label><input class="hide-column-tog" name="time-hide" type="checkbox" id="time-hide" value="time" checked='checked' />Heure</label>
+<label><input class="hide-column-tog" name="file-hide" type="checkbox" id="file-hide" value="file" checked='checked' />Fichier</label>
+<label><input class="hide-column-tog" name="folder-hide" type="checkbox" id="folder-hide" value="folder" checked='checked' />Dossier</label>
+<label><input class="hide-column-tog" name="size-hide" type="checkbox" id="size-hide" value="size" checked='checked' />Taille</label>
+		</fieldset>
+				<fieldset class="screen-options">
+		<legend>Pagination</legend>
+							<label for="backwpupbackups_per_page">Sauvegardes des fichiers</label>
+				<input type="number" step="1" min="1" max="999" class="screen-per-page" name="wp_screen_options[value]"
+					id="backwpupbackups_per_page" maxlength="3"
+					value="20" />
+							<input type="hidden" name="wp_screen_options[option]" value="backwpupbackups_per_page" />
+		</fieldset>
+		<p class="submit"><input type="submit" name="screen-options-apply" id="screen-options-apply" class="button button-primary" value="Appliquer"  /></p>
+<input type="hidden" id="screenoptionnonce" name="screenoptionnonce" value="f2c818206e" />
+</form>
+</div>		</div>
+				<div id="screen-meta-links">
+					<div id="screen-options-link-wrap" class="hide-if-no-js screen-meta-toggle">
+			<button type="button" id="show-settings-link" class="button show-settings" aria-controls="screen-options-wrap" aria-expanded="false">Options de l’écran</button>
+			</div>
+						<div id="contextual-help-link-wrap" class="hide-if-no-js screen-meta-toggle">
+			<button type="button" id="contextual-help-link" class="button show-settings" aria-controls="contextual-help-wrap" aria-expanded="false">Aide</button>
+			</div>
+				</div>
+		<div class="notice notice-warning is-dismissible">
+	<p>
+		To optimize further development of BackWPup, we would like to ask you the consent to query from you
+		some data like PHP and WordPress version.
+					<strong>No personal data will be collected!</strong>
+		
+	</p>
+	<p class="notice-links">
+				<a
+			href="http://localhost/wordPress_gee/wp-admin/admin-post.php?nonce=e43510becc&#038;user=1&#038;action=inpsyde_phone-home_agree"
+			class="button button-primary">
+			Yes, I agree.		</a>
+						<a
+			href="http://localhost/wordPress_gee/wp-admin/admin.php?page=backwpup-phone-home-consent"
+			class="button button-secondary">
+			More info		</a>
+			</p>
+</div>
+		<div class="wrap" id="backwpup-page">
+			<h1>BackWPup &rsaquo; Gestion des sauvegardes</h1>
+						<form id="posts-filter" action="" method="get">
+				<input type="hidden" name="page" value="backwpupbackups"/>
+				<input type="hidden" id="_wpnonce" name="_wpnonce" value="ffa1402bab" /><input type="hidden" name="_wp_http_referer" value="/wordPress_gee/wp-admin/admin.php?page=backwpupbackups&amp;action=downloadfolder&amp;file=2020-05-18_17-05-06_SIEDCEG201.zip&amp;local_file=2020-05-18_17-05-06_SIEDCEG201.zip&amp;jobid=1&amp;_wpnonce=e86aa1d93c" />	<div class="tablenav top">
+
+				<div class="alignleft actions bulkactions">
+			<label for="bulk-action-selector-top" class="screen-reader-text">Sélectionnez l’action groupée</label><select name="action" id="bulk-action-selector-top">
+<option value="-1">Actions groupées</option>
+	<option value="delete">Supprimer</option>
+</select>
+<input type="submit" id="doaction" class="button action" value="Appliquer"  />
+		</div>
+			<input type="hidden" name="jobdest-top" value="1_FOLDER"><div class='tablenav-pages one-page'><span class="displaying-num">3 éléments</span>
+<span class='pagination-links'><span class="tablenav-pages-navspan button disabled" aria-hidden="true">&laquo;</span>
+<span class="tablenav-pages-navspan button disabled" aria-hidden="true">&lsaquo;</span>
+<span class="paging-input"><label for="current-page-selector" class="screen-reader-text">Page actuelle</label><input class='current-page' id='current-page-selector' type='text' name='paged' value='1' size='1' aria-describedby='table-paging' /><span class='tablenav-paging-text'> sur <span class='total-pages'>1</span></span></span>
+<span class="tablenav-pages-navspan button disabled" aria-hidden="true">&rsaquo;</span>
+<span class="tablenav-pages-navspan button disabled" aria-hidden="true">&raquo;</span></span></div>
+		<br class="clear" />
+	</div>
+		<table class="wp-list-table widefat fixed striped backups">
+	<thead>
+	<tr>
+		<td  id='cb' class='manage-column column-cb check-column'><label class="screen-reader-text" for="cb-select-all-1">Tout sélectionner</label><input id="cb-select-all-1" type="checkbox" /></td><th scope="col" id='time' class='manage-column column-time column-primary sortable desc'><a href="http://localhost/wordPress_gee/wp-admin/admin.php?page=backwpupbackups&#038;action=downloadfolder&#038;file=2020-05-18_17-05-06_SIEDCEG201.zip&#038;local_file=2020-05-18_17-05-06_SIEDCEG201.zip&#038;jobid=1&#038;_wpnonce=e86aa1d93c&#038;orderby=time&#038;order=asc"><span>Heure</span><span class="sorting-indicator"></span></a></th><th scope="col" id='file' class='manage-column column-file sortable desc'><a href="http://localhost/wordPress_gee/wp-admin/admin.php?page=backwpupbackups&#038;action=downloadfolder&#038;file=2020-05-18_17-05-06_SIEDCEG201.zip&#038;local_file=2020-05-18_17-05-06_SIEDCEG201.zip&#038;jobid=1&#038;_wpnonce=e86aa1d93c&#038;orderby=file&#038;order=asc"><span>Fichier</span><span class="sorting-indicator"></span></a></th><th scope="col" id='folder' class='manage-column column-folder sortable desc'><a href="http://localhost/wordPress_gee/wp-admin/admin.php?page=backwpupbackups&#038;action=downloadfolder&#038;file=2020-05-18_17-05-06_SIEDCEG201.zip&#038;local_file=2020-05-18_17-05-06_SIEDCEG201.zip&#038;jobid=1&#038;_wpnonce=e86aa1d93c&#038;orderby=folder&#038;order=asc"><span>Dossier</span><span class="sorting-indicator"></span></a></th><th scope="col" id='size' class='manage-column column-size sortable desc'><a href="http://localhost/wordPress_gee/wp-admin/admin.php?page=backwpupbackups&#038;action=downloadfolder&#038;file=2020-05-18_17-05-06_SIEDCEG201.zip&#038;local_file=2020-05-18_17-05-06_SIEDCEG201.zip&#038;jobid=1&#038;_wpnonce=e86aa1d93c&#038;orderby=size&#038;order=asc"><span>Taille</span><span class="sorting-indicator"></span></a></th>	</tr>
+	</thead>
+
+	<tbody id="the-list"
+		 data-wp-lists='list:backup'		>
+		<tr><th scope="row" class="check-column"><input type="checkbox" name="backupfiles[]" value="C:/wamp64/www/wordpress_gee/wp-content/uploads/backwpup-083110-backups/2020-05-18_17-05-06_SIEDCEG201.zip" /></th><td class='time column-time has-row-actions column-primary' data-colname="Heure">18 mai 2020 à 17 h 06 min<button type="button" class="toggle-row"><span class="screen-reader-text">Afficher plus de détails</span></button></td><td class='file column-file' data-colname="Fichier"><strong>2020-05-18_17-05-06_SIEDCEG201.zip</strong><br /><div class="row-actions"><span class='delete'><a class="submitdelete" href="http://localhost/wordPress_gee/wp-admin/admin.php?page=backwpupbackups&amp;action=delete&amp;jobdest-top=1_FOLDER&amp;paged=1&amp;backupfiles%5B0%5D=C%3A%2Fwamp64%2Fwww%2Fwordpress_gee%2Fwp-content%2Fuploads%2Fbackwpup-083110-backups%2F2020-05-18_17-05-06_SIEDCEG201.zip&amp;_wpnonce=ffa1402bab" onclick="if ( confirm('Vous êtes sur le point de supprimer cette sauvegarde. « Annuler » pour arrêter, « OK » pour effacer.') ) { return true; } return false;">Supprimer</a> | </span><span class='download'><a href="#TB_inline?height=300&width=630&inlineId=tb_download_file" 
+				class="backup-download-link thickbox" 
+				data-jobid="1" 
+				data-destination="FOLDER" 
+				data-file="C:/wamp64/www/wordpress_gee/wp-content/uploads/backwpup-083110-backups/2020-05-18_17-05-06_SIEDCEG201.zip" 
+				data-local-file="C:/wamp64/www/wordpress_gee/wp-content/uploads/backwpup-083110-temp/2020-05-18_17-05-06_SIEDCEG201.zip" 
+				data-nonce="e86aa1d93c" 
+				data-url="http://localhost/wordPress_gee/wp-admin/admin.php?page=backwpupbackups&amp;action=downloadfolder&amp;file=2020-05-18_17-05-06_SIEDCEG201.zip&amp;local_file=2020-05-18_17-05-06_SIEDCEG201.zip&amp;jobid=1&amp;_wpnonce=e86aa1d93c">Télécharger</a></span></div><button type="button" class="toggle-row"><span class="screen-reader-text">Afficher plus de détails</span></button></td><td class='folder column-folder' data-colname="Dossier">C:/wamp64/www/wordpress_gee/wp-content/uploads/backwpup-083110-backups/</td><td class='size column-size' data-colname="Taille">51,58 MB</td></tr><tr><th scope="row" class="check-column"><input type="checkbox" name="backupfiles[]" value="C:/wamp64/www/wordpress_gee/wp-content/uploads/backwpup-083110-backups/2020-05-18_17-01-14_NEEDCEEO01.zip" /></th><td class='time column-time has-row-actions column-primary' data-colname="Heure">18 mai 2020 à 17 h 02 min<button type="button" class="toggle-row"><span class="screen-reader-text">Afficher plus de détails</span></button></td><td class='file column-file' data-colname="Fichier"><strong>2020-05-18_17-01-14_NEEDCEEO01.zip</strong><br /><div class="row-actions"><span class='delete'><a class="submitdelete" href="http://localhost/wordPress_gee/wp-admin/admin.php?page=backwpupbackups&amp;action=delete&amp;jobdest-top=1_FOLDER&amp;paged=1&amp;backupfiles%5B0%5D=C%3A%2Fwamp64%2Fwww%2Fwordpress_gee%2Fwp-content%2Fuploads%2Fbackwpup-083110-backups%2F2020-05-18_17-01-14_NEEDCEEO01.zip&amp;_wpnonce=ffa1402bab" onclick="if ( confirm('Vous êtes sur le point de supprimer cette sauvegarde. « Annuler » pour arrêter, « OK » pour effacer.') ) { return true; } return false;">Supprimer</a> | </span><span class='download'><a href="#TB_inline?height=300&width=630&inlineId=tb_download_file" 
+				class="backup-download-link thickbox" 
+				data-jobid="1" 
+				data-destination="FOLDER" 
+				data-file="C:/wamp64/www/wordpress_gee/wp-content/uploads/backwpup-083110-backups/2020-05-18_17-01-14_NEEDCEEO01.zip" 
+				data-local-file="C:/wamp64/www/wordpress_gee/wp-content/uploads/backwpup-083110-temp/2020-05-18_17-01-14_NEEDCEEO01.zip" 
+				data-nonce="e86aa1d93c" 
+				data-url="http://localhost/wordPress_gee/wp-admin/admin.php?page=backwpupbackups&amp;action=downloadfolder&amp;file=2020-05-18_17-01-14_NEEDCEEO01.zip&amp;local_file=2020-05-18_17-01-14_NEEDCEEO01.zip&amp;jobid=1&amp;_wpnonce=e86aa1d93c">Télécharger</a></span></div><button type="button" class="toggle-row"><span class="screen-reader-text">Afficher plus de détails</span></button></td><td class='folder column-folder' data-colname="Dossier">C:/wamp64/www/wordpress_gee/wp-content/uploads/backwpup-083110-backups/</td><td class='size column-size' data-colname="Taille">51,58 MB</td></tr><tr><th scope="row" class="check-column"><input type="checkbox" name="backupfiles[]" value="C:/wamp64/www/wordpress_gee/wp-content/uploads/backwpup-083110-backups/2020-05-18_16-41-52_QUEDCEDH01.zip" /></th><td class='time column-time has-row-actions column-primary' data-colname="Heure">18 mai 2020 à 16 h 46 min<button type="button" class="toggle-row"><span class="screen-reader-text">Afficher plus de détails</span></button></td><td class='file column-file' data-colname="Fichier"><strong>2020-05-18_16-41-52_QUEDCEDH01.zip</strong><br /><div class="row-actions"><span class='delete'><a class="submitdelete" href="http://localhost/wordPress_gee/wp-admin/admin.php?page=backwpupbackups&amp;action=delete&amp;jobdest-top=1_FOLDER&amp;paged=1&amp;backupfiles%5B0%5D=C%3A%2Fwamp64%2Fwww%2Fwordpress_gee%2Fwp-content%2Fuploads%2Fbackwpup-083110-backups%2F2020-05-18_16-41-52_QUEDCEDH01.zip&amp;_wpnonce=ffa1402bab" onclick="if ( confirm('Vous êtes sur le point de supprimer cette sauvegarde. « Annuler » pour arrêter, « OK » pour effacer.') ) { return true; } return false;">Supprimer</a> | </span><span class='download'><a href="#TB_inline?height=300&width=630&inlineId=tb_download_file" 
+				class="backup-download-link thickbox" 
+				data-jobid="1" 
+				data-destination="FOLDER" 
+				data-file="C:/wamp64/www/wordpress_gee/wp-content/uploads/backwpup-083110-backups/2020-05-18_16-41-52_QUEDCEDH01.zip" 
+				data-local-file="C:/wamp64/www/wordpress_gee/wp-content/uploads/backwpup-083110-temp/2020-05-18_16-41-52_QUEDCEDH01.zip" 
+				data-nonce="e86aa1d93c" 
+				data-url="http://localhost/wordPress_gee/wp-admin/admin.php?page=backwpupbackups&amp;action=downloadfolder&amp;file=2020-05-18_16-41-52_QUEDCEDH01.zip&amp;local_file=2020-05-18_16-41-52_QUEDCEDH01.zip&amp;jobid=1&amp;_wpnonce=e86aa1d93c">Télécharger</a></span></div><button type="button" class="toggle-row"><span class="screen-reader-text">Afficher plus de détails</span></button></td><td class='folder column-folder' data-colname="Dossier">C:/wamp64/www/wordpress_gee/wp-content/uploads/backwpup-083110-backups/</td><td class='size column-size' data-colname="Taille">51,58 MB</td></tr>	</tbody>
+
+	<tfoot>
+	<tr>
+		<td   class='manage-column column-cb check-column'><label class="screen-reader-text" for="cb-select-all-2">Tout sélectionner</label><input id="cb-select-all-2" type="checkbox" /></td><th scope="col"  class='manage-column column-time column-primary sortable desc'><a href="http://localhost/wordPress_gee/wp-admin/admin.php?page=backwpupbackups&#038;action=downloadfolder&#038;file=2020-05-18_17-05-06_SIEDCEG201.zip&#038;local_file=2020-05-18_17-05-06_SIEDCEG201.zip&#038;jobid=1&#038;_wpnonce=e86aa1d93c&#038;orderby=time&#038;order=asc"><span>Heure</span><span class="sorting-indicator"></span></a></th><th scope="col"  class='manage-column column-file sortable desc'><a href="http://localhost/wordPress_gee/wp-admin/admin.php?page=backwpupbackups&#038;action=downloadfolder&#038;file=2020-05-18_17-05-06_SIEDCEG201.zip&#038;local_file=2020-05-18_17-05-06_SIEDCEG201.zip&#038;jobid=1&#038;_wpnonce=e86aa1d93c&#038;orderby=file&#038;order=asc"><span>Fichier</span><span class="sorting-indicator"></span></a></th><th scope="col"  class='manage-column column-folder sortable desc'><a href="http://localhost/wordPress_gee/wp-admin/admin.php?page=backwpupbackups&#038;action=downloadfolder&#038;file=2020-05-18_17-05-06_SIEDCEG201.zip&#038;local_file=2020-05-18_17-05-06_SIEDCEG201.zip&#038;jobid=1&#038;_wpnonce=e86aa1d93c&#038;orderby=folder&#038;order=asc"><span>Dossier</span><span class="sorting-indicator"></span></a></th><th scope="col"  class='manage-column column-size sortable desc'><a href="http://localhost/wordPress_gee/wp-admin/admin.php?page=backwpupbackups&#038;action=downloadfolder&#038;file=2020-05-18_17-05-06_SIEDCEG201.zip&#038;local_file=2020-05-18_17-05-06_SIEDCEG201.zip&#038;jobid=1&#038;_wpnonce=e86aa1d93c&#038;orderby=size&#038;order=asc"><span>Taille</span><span class="sorting-indicator"></span></a></th>	</tr>
+	</tfoot>
+
+</table>
+			<div class="tablenav bottom">
+
+				<div class="alignleft actions bulkactions">
+			<label for="bulk-action-selector-bottom" class="screen-reader-text">Sélectionnez l’action groupée</label><select name="action2" id="bulk-action-selector-bottom">
+<option value="-1">Actions groupées</option>
+	<option value="delete">Supprimer</option>
+</select>
+<input type="submit" id="doaction2" class="button action" value="Appliquer"  />
+		</div>
+			<input type="hidden" name="jobdest-bottom" value="1_FOLDER"><div class='tablenav-pages one-page'><span class="displaying-num">3 éléments</span>
+<span class='pagination-links'><span class="tablenav-pages-navspan button disabled" aria-hidden="true">&laquo;</span>
+<span class="tablenav-pages-navspan button disabled" aria-hidden="true">&lsaquo;</span>
+<span class="screen-reader-text">Page actuelle</span><span id="table-paging" class="paging-input"><span class="tablenav-paging-text">1 sur <span class='total-pages'>1</span></span></span>
+<span class="tablenav-pages-navspan button disabled" aria-hidden="true">&rsaquo;</span>
+<span class="tablenav-pages-navspan button disabled" aria-hidden="true">&raquo;</span></span></div>
+		<br class="clear" />
+	</div>
+						<div id="ajax-response"></div>
+			</form>
+		</div>
+
+		<div id="tb_download_file" style="display: none;">
+			<div id="tb_container">
+				<p id="download-file-waiting">
+					Merci de patienter &hellip;				</p>
+				<p id="download-file-success" style="display: none;">
+					Votre téléversement est prêt. Le transfert devrait commencer dans un petit moment.				</p>
+				<div class="progressbar" style="display: none;">
+					<div id="progresssteps" class="bwpu-progress" style="width:0%;">0%</div>
+				</div>
+							</div>
+		</div>
+		
+<div class="clear"></div></div><!-- wpbody-content -->
+<div class="clear"></div></div><!-- wpbody -->
+<div class="clear"></div></div><!-- wpcontent -->
+
+<div id="wpfooter" role="contentinfo">
+		<p id="footer-left" class="alignleft">
+		<a href="http://inpsyde.com" class="inpsyde_logo" title="Inpsyde GmbH"><svg id="inpsyde_logo" data-name="Inpsyde Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 226.77 70.7"><defs><style>.cls-1{fill:#9ec75f}.cls-2{fill:#3e3c3d}</style></defs><path class="cls-1" d="M218.35 3.09c-.47.58-1 1.16-1.48 1.78l-1.48 2c-1 1.36-2.09 2.79-3.07 4.35l-1.54 2.34-1.44 2.44c-1 1.64-1.85 3.4-2.74 5.14s-1.62 3.53-2.34 5.3-1.36 3.53-1.91 5.27-1 3.41-1.5 5-.83 3.16-1.17 4.6c-.19.83-.39 1.61-.56 2.36 32.89-9.3 31.35-8.09 21.3-43.05-.65.74-1.32 1.56-2.07 2.43M194.63 34.67c.67-1.64 1.37-3.37 2.2-5.12s1.7-3.55 2.66-5.34 2-3.56 3.11-5.29 2.23-3.45 3.47-5c.6-.8 1.19-1.61 1.79-2.39l1.86-2.24c1.19-1.49 2.46-2.83 3.66-4.09l1.74-1.85 1.71-1.63c.62-.57 1.19-1.12 1.74-1.64-33.71 9.59-34.24 8.1-25.41 38.51.45-1.23.93-2.51 1.47-3.88" transform="translate(0 -.04)"/><path class="cls-2" d="M3.76 36.86H.31a12 12 0 0 1-.23-1.42c0-.5-.08-1-.08-1.42a12 12 0 0 1 .31-2.73h10.6v26.62a21.36 21.36 0 0 1-3.6.31 21.14 21.14 0 0 1-3.55-.31zm-1.08-10a19.52 19.52 0 0 1-.31-3.46 20.18 20.18 0 0 1 .31-3.45c.58-.1 1.21-.18 1.88-.23s1.28-.07 1.82-.07 1.22 0 1.91.07 1.32.13 1.9.23a13.16 13.16 0 0 1 .21 1.73v3.42a13.2 13.2 0 0 1-.21 1.76 14.89 14.89 0 0 1-1.87.2c-.67 0-1.3.05-1.88.05s-1.17 0-1.86-.05a15 15 0 0 1-1.9-.2M18.12 31.29a14.37 14.37 0 0 1 1.44-.23 15.55 15.55 0 0 1 1.6-.08 13.67 13.67 0 0 1 1.54.08c.45.05.91.13 1.39.23a2.93 2.93 0 0 1 .29.75c.08.33.16.67.23 1s.13.71.18 1.06.1.63.13.87a11.84 11.84 0 0 1 1.23-1.54 8.82 8.82 0 0 1 1.68-1.39 9.18 9.18 0 0 1 2.14-1 8.59 8.59 0 0 1 2.62-.38c3 0 5.3.82 6.82 2.47s2.29 4.24 2.29 7.77v17a21.7 21.7 0 0 1-7.31 0v-15a8.69 8.69 0 0 0-.85-4.27 3.1 3.1 0 0 0-3-1.5 6.81 6.81 0 0 0-1.8.26 3.82 3.82 0 0 0-1.67 1 5.44 5.44 0 0 0-1.21 2.09 10.91 10.91 0 0 0-.46 3.5v13.93a21.76 21.76 0 0 1-7.32 0zM48.19 31.24a11.87 11.87 0 0 1 1.42-.24c.46 0 1-.05 1.57-.05a14.9 14.9 0 0 1 2.93.31 3.36 3.36 0 0 1 .29.75c.08.33.17.68.25 1.06s.15.74.21 1.1.09.66.13.91a10.39 10.39 0 0 1 1.13-1.63 7.4 7.4 0 0 1 1.62-1.41 9.18 9.18 0 0 1 2.14-1 8.63 8.63 0 0 1 2.62-.39 10.46 10.46 0 0 1 4.15.83A9.09 9.09 0 0 1 70 34a11.67 11.67 0 0 1 2.24 4.2 19.93 19.93 0 0 1 .8 6 17.22 17.22 0 0 1-1 6 12.23 12.23 0 0 1-2.83 4.51 12.56 12.56 0 0 1-4.53 2.86 17.23 17.23 0 0 1-6.08 1c-.58 0-1.16 0-1.72-.07s-1-.12-1.42-.19v11.8a16.13 16.13 0 0 1-1.88.21q-.9.06-1.77.06c-.59 0-1.18 0-1.78-.06a16.13 16.13 0 0 1-1.88-.21zm7.31 21a11.07 11.07 0 0 0 3.19.41 6 6 0 0 0 4.89-2.06c1.14-1.37 1.7-3.45 1.7-6.23a15.31 15.31 0 0 0-.26-3 6.44 6.44 0 0 0-.87-2.34 4.65 4.65 0 0 0-1.57-1.55 4.58 4.58 0 0 0-2.34-.47 4.49 4.49 0 0 0-2.19.49 4 4 0 0 0-1.47 1.34 5.7 5.7 0 0 0-.82 2 11 11 0 0 0-.26 2.42zM83.92 46.33a10.21 10.21 0 0 1-4.5-2.45A6.6 6.6 0 0 1 77.79 39a7.38 7.38 0 0 1 2.81-6.13 12.07 12.07 0 0 1 7.65-2.22 22.69 22.69 0 0 1 4 .36 26.45 26.45 0 0 1 4 1.09 13.8 13.8 0 0 1-.52 2.78 12.86 12.86 0 0 1-1 2.52 21.15 21.15 0 0 0-2.72-.9 12.47 12.47 0 0 0-3.15-.39 5.62 5.62 0 0 0-2.73.55 1.82 1.82 0 0 0-1 1.72A1.78 1.78 0 0 0 85.8 40a8.37 8.37 0 0 0 2 .87l2.94.88a14.37 14.37 0 0 1 2.6 1 7 7 0 0 1 2 1.47 6.09 6.09 0 0 1 1.29 2.16 9.33 9.33 0 0 1 .46 3.14 8 8 0 0 1-3.12 6.41 11.48 11.48 0 0 1-3.67 1.91 16.14 16.14 0 0 1-4.89.69c-.83 0-1.59 0-2.27-.07s-1.35-.15-2-.26-1.27-.27-1.88-.44a20.54 20.54 0 0 1-2-.67 14.56 14.56 0 0 1 .49-2.8 17.82 17.82 0 0 1 1-2.76 20.59 20.59 0 0 0 3.22 1 14.26 14.26 0 0 0 3.17.34 11.43 11.43 0 0 0 1.57-.13 6.08 6.08 0 0 0 1.57-.46 3.89 3.89 0 0 0 1.21-.88A2 2 0 0 0 90 50a2 2 0 0 0-.75-1.77 7.07 7.07 0 0 0-2.09-1zM99.37 31.29a11.84 11.84 0 0 1 2.09-.28h1.67c.69 0 1.39 0 2.11.05a12.25 12.25 0 0 1 2 .26l5.56 23.22 6.2-23.25a20.07 20.07 0 0 1 3.5-.31h1.65a13.9 13.9 0 0 1 2.16.28l-9.9 32.94a12.88 12.88 0 0 1-1.47 3.24 6.77 6.77 0 0 1-1.93 2 6.85 6.85 0 0 1-2.42 1 13.78 13.78 0 0 1-2.88.29 18.4 18.4 0 0 1-2.6-.18 22.23 22.23 0 0 1-2.29-.5 1.83 1.83 0 0 1 0-.43v-.39a9.32 9.32 0 0 1 .28-2.34 16.74 16.74 0 0 1 .7-2.14 8.21 8.21 0 0 0 1.2.25 9 9 0 0 0 1.55.13 10.14 10.14 0 0 0 1.23-.07 2.93 2.93 0 0 0 1.21-.47 3.88 3.88 0 0 0 1.11-1.21 9.31 9.31 0 0 0 .93-2.31l.87-3.2c-.38 0-.8.06-1.26.08s-.94 0-1.41 0h-1.09a3.68 3.68 0 0 1-.92-.11zM145.55 20.27c.62-.1 1.23-.16 1.83-.2s1.2-.05 1.78-.05 1.18 0 1.8.05 1.24.1 1.86.2V57a38 38 0 0 1-4.92 1.11 41.41 41.41 0 0 1-6.05.38 18.47 18.47 0 0 1-5.23-.74 12.1 12.1 0 0 1-4.4-2.37 11.11 11.11 0 0 1-3-4.2 15.86 15.86 0 0 1-1.11-6.28 16.12 16.12 0 0 1 1-5.54 13.31 13.31 0 0 1 2.73-4.5 12.83 12.83 0 0 1 4.3-3 13.78 13.78 0 0 1 5.62-1.11c.61 0 1.26 0 1.92.08a9.85 9.85 0 0 1 1.93.33zm0 16.53a13.76 13.76 0 0 0-1.67-.33 14.29 14.29 0 0 0-1.62-.08 6 6 0 0 0-3 .7 6.2 6.2 0 0 0-2.09 1.85 7.72 7.72 0 0 0-1.2 2.73 13.56 13.56 0 0 0-.39 3.27 11 11 0 0 0 .51 3.58 6.06 6.06 0 0 0 1.42 2.34 5.31 5.31 0 0 0 2.14 1.26 8.79 8.79 0 0 0 2.67.39 15.4 15.4 0 0 0 1.6-.08 8.29 8.29 0 0 0 1.59-.34zM164.93 46.84a5.65 5.65 0 0 0 2.16 4.49 8.76 8.76 0 0 0 5.15 1.38 20.65 20.65 0 0 0 7.06-1.28 12.22 12.22 0 0 1 1 2.47 13.15 13.15 0 0 1 .46 3.09 25.1 25.1 0 0 1-9.06 1.54 17.52 17.52 0 0 1-6.36-1 11.22 11.22 0 0 1-4.34-2.88 11.47 11.47 0 0 1-2.48-4.36 18.21 18.21 0 0 1-.79-5.51 17.89 17.89 0 0 1 .82-5.5 12.86 12.86 0 0 1 2.45-4.49 11.55 11.55 0 0 1 4-3 13.34 13.34 0 0 1 5.59-1.1 11.74 11.74 0 0 1 4.94 1 10.87 10.87 0 0 1 3.68 2.67 11.31 11.31 0 0 1 2.29 4 15.85 15.85 0 0 1 .78 5c0 .66 0 1.3-.08 1.93s-.12 1.15-.18 1.52zm10.46-5.09a6.49 6.49 0 0 0-1.37-4 4.35 4.35 0 0 0-3.53-1.52 5.08 5.08 0 0 0-3.91 1.44 6.85 6.85 0 0 0-1.6 4.07zM187.25 58.07a20.45 20.45 0 0 1-.3-3.45 21 21 0 0 1 .3-3.45c.58-.1 1.21-.18 1.88-.23s1.28-.08 1.83-.08 1.22 0 1.9.08 1.32.13 1.91.23a14.88 14.88 0 0 1 .2 1.72c0 .57.06 1.15.06 1.73s0 1.12-.06 1.7a14.88 14.88 0 0 1-.2 1.75 17.41 17.41 0 0 1-1.88.21h-3.73a17.16 17.16 0 0 1-1.91-.21" transform="translate(0 -.04)"/></svg> <span class="screen-reader-text">Inpsyde GmbH</span></a><a class="backwpup-get-pro" href="http://backwpup.com">Obtenir BackWPup Pro maintenant.</a><span id="footer-thankyou">Merci de faire de <a href="https://fr.wordpress.org/">WordPress</a> votre outil de création.</span>	</p>
+	<p id="footer-upgrade" class="alignright">
+		<span class="backwpup-update-footer"><a href="http://backwpup.com">BackWPup</a> version 3.7.1</span>Version 5.4.1	</p>
+	<div class="clear"></div>
+</div>
+<script type='text/javascript'>list_args = {"class":"BackWPup_Page_Backups","screen":{"id":"backwpup_page_backwpupbackups","base":"backwpup_page_backwpupbackups"}};</script>
+	<div id="wp-auth-check-wrap" class="hidden">
+	<div id="wp-auth-check-bg"></div>
+	<div id="wp-auth-check">
+	<button type="button" class="wp-auth-check-close button-link"><span class="screen-reader-text">Fermez la boite de dialogue</span></button>
+			<div id="wp-auth-check-form" class="loading" data-src="http://localhost/wordPress_gee/wp-login.php?interim-login=1&#038;wp_lang=fr_FR"></div>
+			<div class="wp-auth-fallback">
+		<p><b class="wp-auth-fallback-expired" tabindex="0">La session a expiré</b></p>
+		<p><a href="http://localhost/wordPress_gee/wp-login.php" target="_blank">Veuillez vous reconnecter.</a>
+		La page de connexion s’ouvrira dans une nouvelle fenêtre. Après connexion, vous pourrez la fermer et revenir à cette page.</p>
+	</div>
+	</div>
+	</div>
+	
+<script type='text/javascript'>
+/* <![CDATA[ */
+var commonL10n = {"warnDelete":"Vous \u00eates en train de supprimer d\u00e9finitivement ces \u00e9l\u00e9ments de votre site.\nCette action ne peut pas \u00eatre annul\u00e9e.\n\u00ab\u00a0Annuler\u00a0\u00bb pour arr\u00eater, \u00ab\u00a0OK\u00a0\u00bb pour supprimer.","dismiss":"Ne pas tenir compte de ce message.","collapseMenu":"Replier le menu principal","expandMenu":"D\u00e9plier le menu principal"};var thickboxL10n = {"next":"Suiv.\u00a0>","prev":"<\u00a0Pr\u00e9c.","image":"Image","of":"sur","close":"Fermer","noiframes":"Cette fonctionnalit\u00e9 requiert des iframes. Les iframes sont d\u00e9sactiv\u00e9es sur votre navigateur, ou alors il ne les accepte pas.","loadingAnimation":"http:\/\/localhost\/wordPress_gee\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/wordPress_gee/wp-admin/load-scripts.php?c=0&amp;load%5Bchunk_0%5D=hoverIntent,common,hoverintent-js,admin-bar,thickbox,svg-painter&amp;ver=5.4.1'></script>
+<script src='http://localhost/wordPress_gee/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4'></script>
+<script>
+( 'fetch' in window ) || document.write( '<script src="http://localhost/wordPress_gee/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="http://localhost/wordPress_gee/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="http://localhost/wordPress_gee/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="http://localhost/wordPress_gee/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="http://localhost/wordPress_gee/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="http://localhost/wordPress_gee/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script src='http://localhost/wordPress_gee/wp-includes/js/dist/hooks.min.js?ver=552e55b6e60db2edbd9073097f2686f7'></script>
+<script>
+var heartbeatSettings = {"nonce":"4295699f65"};
+</script>
+<script src='http://localhost/wordPress_gee/wp-includes/js/heartbeat.min.js?ver=5.4.1'></script>
+<script>
+var authcheckL10n = {"beforeunload":"Votre session a expir\u00e9. Vous pouvez vous reconnecter depuis cette page ou aller \u00e0 la page de connexion.","interval":"180"};
+</script>
+<script src='http://localhost/wordPress_gee/wp-includes/js/wp-auth-check.min.js?ver=5.4.1'></script>
+<script src='http://localhost/wordPress_gee/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script src='http://localhost/wordPress_gee/wp-content/plugins/backwpup/assets/js/notice.min.js?ver=1589811696'></script>
+<script>
+var lodestar_jetpack_admin = {"lodestar_jetpack_admin_nonce":"0df30450dd"};
+</script>
+<script src='http://localhost/wordPress_gee/wp-content/themes/lodestar/inc/plugin-enhancements.js?ver=20160624'></script>
+<script src='http://localhost/wordPress_gee/wp-content/plugins/backwpup/vendor/inpsyde/backwpup-shared/resources/js/functions.min.js?ver=1589811713'></script>
+<script src='http://localhost/wordPress_gee/wp-content/plugins/backwpup/vendor/inpsyde/backwpup-shared/resources/js/states.min.js?ver=1589811713'></script>
+<script src='http://localhost/wordPress_gee/wp-content/plugins/backwpup/assets/js/backup-downloader.min.js?ver=1589811696'></script>
+
+<div class="clear"></div></div><!-- wpwrap -->
+<script type="text/javascript">if(typeof wpOnload=='function')wpOnload();</script>
+</body>
+</html>

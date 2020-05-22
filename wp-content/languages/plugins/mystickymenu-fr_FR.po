@@ -1,0 +1,101 @@
+# Translation of Plugins - Sticky Menu on Scroll, Sticky Header, Floating Notification Bar for Any Theme &#8211; myStickymenu - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Sticky Menu on Scroll, Sticky Header, Floating Notification Bar for Any Theme &#8211; myStickymenu - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-06 13:48:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Sticky Menu on Scroll, Sticky Header, Floating Notification Bar for Any Theme &#8211; myStickymenu - Stable (latest release)\n"
+
+#: mystickymenu.php:507
+msgid "CSS ID's and Classes to use:"
+msgstr "ID et classes de CSS à utiliser :"
+
+#: mystickymenu.php:409
+msgid "Disable sticky menu at scroll down"
+msgstr "Désactiver le menu épinglé au défilement vers le bas"
+
+#: mystickymenu.php:277
+msgid "menu or header element class or id."
+msgstr "Classe ou ID d’élément de menu ou d’en-tête."
+
+#: mystickymenu.php:502
+msgid "CSS style"
+msgstr "Style CSS"
+
+#: mystickymenu.php:221
+msgid "Add sticky menu / header to any theme. <br />Simply change 'Sticky Class' to HTML element class desired to be sticky (div id can be used as well)."
+msgstr "Ajouter un menu/en-tête épinglé à n’importe quel thème. <br />Modifiez simplement 'Sticky Class' en classe d’élément HTML désiré comme épinglé (l’ID div peut également être utilisé)."
+
+#: mystickymenu.php:503
+msgid "Add/edit CSS style. Leave it blank for default style."
+msgstr "Ajouter/modifier le style CSS. Laissez vide pour le style par défaut."
+
+#: mystickymenu.php:614
+msgid "<span class=\"description\">Comma separated list of posts to enable. It should be post name, id or slug. Example: about-us, 1134, Contact Us. Leave blank if you realy want to disable sticky menu for all posts.</span>"
+msgstr "<span class=\"description\">Liste CSV de contenus à activer. Cela peut être le nom, l’ID ou le slug du contenu. Exemple : a-propos, 1134, Nous contacter. Laissez vide si vous souhaitez réellement désactiver le menu épinglé pour tous les contenus.</span>"
+
+#: mystickymenu.php:600
+msgid "<span class=\"description\">Comma separated list of pages to enable. It should be page name, id or slug. Example: about-us, 1134, Contact Us. Leave blank if you realy want to disable sticky menu for all pages.</span>"
+msgstr "<span class=\"description\">Liste CSV de pages à activer. Cela peut être le nom, l’ID ou le slug de la page. Exemple : a-propos, 1134, Nous contacter. Laissez vide si vous souhaitez réellement désactiver le menu épinglé pour toutes les pages.</span>"
+
+#: mystickymenu.php:530
+msgid "Disable at"
+msgstr "Tout désactiver"
+
+#: mystickymenu.php:229
+msgid "Sticky Class"
+msgstr "Classe Sticky"
+
+#: mystickymenu.php:310
+msgid "Sticky z-index"
+msgstr "z-index de Sticky"
+
+#: mystickymenu.php:363
+msgid "Sticky Background Color"
+msgstr "Couleur de fond de Sticky"
+
+#: mystickymenu.php:387
+msgid "Sticky Opacity"
+msgstr "Opacité de Sticky"
+
+#: mystickymenu.php:372
+msgid "Sticky Transition Time"
+msgstr "Durée de transition de Sticky"
+
+#: mystickymenu.php:331
+msgid "Disable at Small Screen Sizes"
+msgstr "Désactiver sur les petites tailles d'écran"
+
+#: mystickymenu.php:353
+msgid "Make visible on Scroll at homepage"
+msgstr "Rendre visible au défilement sur l'accueil"
+
+#: mystickymenu.php:316
+msgid "Fade or slide effect"
+msgstr "Effet de fondu ou de glissement"
+
+#: mystickymenu.php:519
+msgid "Disable CSS style"
+msgstr "Désactiver le style CSS"
+
+#: mystickymenu.php:388
+msgid "numbers 1-100."
+msgstr "nombres 1-100"
+
+#: mystickymenu.php:523
+msgid "Use this option if you plan to include CSS Style manually"
+msgstr "Utilisez cette option si vous voulez inclure un style CSS manuellement"
+
+#. Plugin Name of the plugin
+#: welcome-bar.php:343 welcome-bar.php:934
+msgid "myStickymenu"
+msgstr "myStickymenu"
+
+#: mystickymenu.php:341
+msgid "Make visible on Scroll"
+msgstr "Rendre visible au défilement "
